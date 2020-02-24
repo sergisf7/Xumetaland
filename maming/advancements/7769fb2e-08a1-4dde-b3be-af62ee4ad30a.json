@@ -1343,6 +1343,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "mesa_rock": "2020-02-22 15:35:11 +0100",
+      "forest": "2020-02-25 00:41:25 +0100",
       "birch_forest": "2020-02-22 16:26:41 +0100",
       "deep_ocean": "2020-02-22 15:28:06 +0100",
       "beaches": "2020-02-22 15:27:05 +0100",
