@@ -1,0 +1,48 @@
+[00:00:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:03:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SrPau lost connection: Disconnected
+[00:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SrPau left the game
+[00:06:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAMAPOSKI is bleeding ...
+[00:06:23] [Server thread/INFO] [tombstone]: The death event of the player MAMAPOSKI was cancelled by another mod
+[00:07:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:10:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAMAPOSKI has made the advancement [Take Aim]
+[00:12:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:12:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:12:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:12:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:14:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:14:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:17:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:18:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:19:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:19:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:19:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:20:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:21:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:24:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godofredo69 is bleeding ...
+[00:35:43] [Server thread/INFO] [tombstone]: The death event of the player Godofredo69 was cancelled by another mod
+[00:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godofredo69 was slain by Zombie
+[00:35:45] [Server thread/INFO] [tombstone]: The last known grave of Godofredo69 is at location [name:Last Grave, x:-2417, y:64, z:5944] in the dimension 0
+[00:35:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Godofredo69 moved too quickly! -2134.0,1.0999999999999943,6386.0
+[00:47:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:48:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:48:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[00:49:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[01:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:10:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[01:12:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 38e045ad-796b-4c81-af5d-fe1532efa8e8
+[01:15:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MAMAPOSKI lost connection: Disconnected
+[01:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAMAPOSKI left the game
+[01:15:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Godofredo69 lost connection: Disconnected
+[01:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godofredo69 left the game
+[01:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'maming'/overworld
+[01:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'maming'/ExtraUtils2_Quarry_Dim
+[01:16:35] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:16:35] [Server thread/INFO] [FML]: Unloading dimension -9999
+[01:16:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
