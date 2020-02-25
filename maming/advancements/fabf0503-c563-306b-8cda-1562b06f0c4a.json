@@ -1,0 +1,62 @@
+{
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-02-25 17:20:22 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-02-25 17:20:22 +0100"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/info_grave_key": {
+    "criteria": {
+      "grave_key": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2020-02-25 17:20:22 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2020-02-25 17:20:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-02-25 17:20:37 +0100"
+    },
+    "done": false
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  }
+}
