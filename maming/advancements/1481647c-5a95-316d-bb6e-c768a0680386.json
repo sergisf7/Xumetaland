@@ -1,0 +1,33 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-02-25 00:06:52 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-02-25 00:06:52 +0100"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2020-02-25 00:06:52 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2020-02-25 00:06:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-02-25 00:06:52 +0100",
+      "beaches": "2020-02-25 00:10:25 +0100"
+    },
+    "done": false
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-02-25 00:16:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-02-25 00:28:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-02-25 00:31:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-02-25 00:31:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-02-25 00:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2020-02-25 00:32:52 +0100"
+    },
+    "done": false
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-02-25 00:16:06 +0100"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2020-02-25 00:16:36 +0100"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2020-02-25 00:16:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-02-25 00:25:30 +0100",
+      "forest_hills": "2020-02-25 00:31:12 +0100",
+      "plains": "2020-02-25 00:30:33 +0100"
+    },
+    "done": false
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2020-02-25 00:16:36 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2020-02-25 00:16:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-02-25 00:26:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-02-25 00:32:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-02-25 00:35:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/info_grave_key": {
+    "criteria": {
+      "grave_key": "2020-02-25 00:16:36 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2020-02-25 00:16:06 +0100"
+    },
+    "done": true
+  },
+  "moarboats:recipes/modrecipes": {
+    "criteria": {
+      "has_the_boat_recipe": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-02-25 00:16:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2020-02-25 00:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-02-25 00:33:25 +0100"
+    },
+    "done": true
+  }
+}
