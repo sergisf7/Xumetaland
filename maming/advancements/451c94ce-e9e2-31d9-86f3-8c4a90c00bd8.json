@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2020-02-25 18:19:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2020-02-25 01:19:49 +0100"
@@ -32,6 +38,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-02-25 01:19:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-02-25 18:19:43 +0100"
     },
     "done": true
   },
@@ -634,6 +646,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-02-25 01:19:49 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2020-02-25 18:19:42 +0100"
     },
     "done": true
   },
