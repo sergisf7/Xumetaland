@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-02-25 23:44:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-25 01:19:49 +0100"
@@ -495,7 +501,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2020-02-25 17:21:17 +0100"
+      "forest": "2020-02-25 17:21:17 +0100",
+      "plains": "2020-02-25 23:36:17 +0100"
     },
     "done": false
   },
@@ -625,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-02-25 23:44:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-25 01:19:49 +0100"
@@ -676,6 +689,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-25 01:19:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-02-25 23:44:33 +0100"
     },
     "done": true
   },
