@@ -994,3 +994,6 @@ java.net.UnknownHostException: raw.githubusercontent.com
 2020-02-27 01:18:51,145 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! UNCOMMON chest at coords: -1912 87 5608
 2020-02-27 01:18:55,290 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! RARE chest at coords: -1944 86 5704
 2020-02-27 01:19:16,228 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! SCARCE chest at coords: -2024 106 5720
+2020-02-27 01:35:30,804 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-02-27 01:35:31,105 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-02-27 01:35:31,221 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
