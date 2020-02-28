@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-02-28 01:05:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 22:16:40 +0100"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-02-28 02:38:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-02-26 23:32:29 +0100"
@@ -345,6 +357,18 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-02-26 22:49:26 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2020-02-28 02:51:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-02-28 02:16:00 +0100"
     },
     "done": true
   },
@@ -624,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-02-28 01:05:21 +0100"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2020-02-26 13:25:30 +0100"
@@ -639,6 +669,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2020-02-27 23:50:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2020-02-28 02:19:00 +0100"
     },
     "done": true
   },
@@ -720,6 +756,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2020-02-28 00:35:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-26 22:24:49 +0100"
@@ -734,7 +776,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-02-28 02:46:53 +0100",
+      "skeleton": "2020-02-28 01:24:09 +0100",
+      "zombie": "2020-02-28 00:45:32 +0100",
       "spider": "2020-02-27 23:16:55 +0100",
+      "ghast": "2020-02-28 01:03:32 +0100",
       "creeper": "2020-02-27 01:04:18 +0100"
     },
     "done": false
@@ -850,6 +896,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 22:24:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-02-28 01:23:05 +0100"
     },
     "done": true
   },
@@ -1003,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2020-02-28 00:57:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 22:24:49 +0100"
@@ -1030,6 +1088,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-02-28 00:49:11 +0100"
     },
     "done": true
   },
@@ -1165,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-02-28 01:05:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-02-26 21:42:17 +0100"
@@ -1207,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-02-28 00:49:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 22:16:40 +0100"
@@ -1216,6 +1292,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-02-26 23:15:34 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2020-02-28 02:51:36 +0100"
     },
     "done": true
   },
@@ -1291,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2020-02-28 02:19:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2020-02-27 00:45:23 +0100",
@@ -1325,6 +1413,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-26 21:40:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-02-28 03:35:31 +0100"
     },
     "done": true
   },
@@ -1370,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-02-28 00:49:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2020-02-26 13:25:38 +0100"
@@ -1388,9 +1488,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-02-28 01:03:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-02-26 21:40:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-02-28 01:21:09 +0100"
     },
     "done": true
   },
@@ -1457,6 +1569,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-02-26 23:37:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2020-02-28 00:49:11 +0100"
     },
     "done": true
   },

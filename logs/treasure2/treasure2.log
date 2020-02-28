@@ -1007,3 +1007,10 @@ java.net.UnknownHostException: raw.githubusercontent.com
 2020-02-27 19:45:00,066 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! COMMON chest at coords: -2552 71 6376
 2020-02-27 22:13:06,952 [Server thread] INFO Treasure2 | WitherTreeWorldGenerator.java:334 | CHEATER! wither chest at coords: -2600 65 5704
 2020-02-27 22:35:27,446 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! COMMON chest at coords: -2824 66 5928
+2020-02-28 00:26:36,927 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-02-28 00:26:37,255 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-02-28 00:26:37,365 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-02-28 01:46:46,655 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! EPIC chest at coords: -1944 64 6584
+2020-02-28 01:46:53,732 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
+2020-02-28 01:46:53,732 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:281 | CHEATER! SCARCE chest at coords: -1932 50 6504
+2020-02-28 01:47:50,110 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! COMMON chest at coords: -1944 81 6728
