@@ -360,15 +360,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/find_ancient_tablet": {
-    "criteria": {
-      "has_ancient_tablet_of_recall": "2020-02-28 02:51:36 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2020-02-28 02:16:00 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2020-02-28 02:51:36 +0100"
     },
     "done": true
   },
