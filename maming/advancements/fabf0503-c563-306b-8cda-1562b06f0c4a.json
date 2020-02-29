@@ -308,7 +308,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2020-02-27 15:52:16 +0100",
-      "baked_potato": "2020-02-26 14:33:44 +0100"
+      "baked_potato": "2020-02-26 14:33:44 +0100",
+      "apple": "2020-02-29 15:41:58 +0100"
     },
     "done": false
   },
@@ -462,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-02-29 18:32:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2020-02-27 01:25:27 +0100"
@@ -534,6 +541,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-02-27 01:29:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-02-29 17:17:33 +0100"
     },
     "done": true
   },
@@ -896,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-02-29 18:32:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2020-02-26 14:45:54 +0100"
@@ -1031,6 +1050,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-02-27 16:45:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-02-29 17:08:44 +0100"
     },
     "done": true
   },
@@ -1214,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-02-29 17:08:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 14:49:58 +0100"
@@ -1283,6 +1314,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-02-27 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-02-29 16:25:51 +0100"
     },
     "done": true
   },
@@ -1364,6 +1401,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2020-02-27 19:19:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-02-29 17:08:44 +0100"
     },
     "done": true
   },
@@ -1454,6 +1497,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2020-02-29 17:08:44 +0100"
     },
     "done": true
   },
