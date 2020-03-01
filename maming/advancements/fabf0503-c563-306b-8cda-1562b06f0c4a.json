@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-03-01 16:18:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 14:49:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-02-27 16:45:23 +0100"
@@ -337,9 +355,21 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2020-03-01 16:19:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-02-26 14:49:58 +0100"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2020-03-01 16:24:42 +0100"
     },
     "done": true
   },
@@ -451,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-25 18:05:52 +0100"
@@ -493,6 +529,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-02-27 01:29:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
     },
     "done": true
   },
@@ -625,6 +667,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-03-01 16:18:41 +0100"
     },
     "done": true
   },
@@ -1023,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-03-01 16:18:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 14:45:54 +0100"
@@ -1203,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-03-01 16:18:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-02-27 19:00:57 +0100"
@@ -1320,6 +1380,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-02-29 16:25:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
     },
     "done": true
   },
@@ -1467,6 +1533,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-02-28 00:27:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-03-01 16:18:35 +0100"
     },
     "done": true
   },
