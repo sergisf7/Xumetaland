@@ -324,6 +324,12 @@
     },
     "done": true
   },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2020-03-01 23:12:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 21:50:02 +0100"
