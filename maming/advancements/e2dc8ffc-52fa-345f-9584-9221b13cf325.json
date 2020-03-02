@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-02 20:08:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
@@ -327,6 +333,12 @@
   "cfm:what_did_you_eat": {
     "criteria": {
       "player_fart": "2020-03-01 23:12:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-03-02 20:15:38 +0100"
     },
     "done": true
   },
@@ -1050,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-03-02 20:15:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-02-26 22:21:08 +0100"
@@ -1113,6 +1131,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-02-29 17:50:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-03-02 20:15:38 +0100"
     },
     "done": true
   },
