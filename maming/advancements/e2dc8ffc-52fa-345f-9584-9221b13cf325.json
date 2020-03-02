@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-03-02 22:32:35 +0100"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-03-02 22:43:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
@@ -248,6 +266,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-02-27 21:45:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
     },
     "done": true
   },
@@ -444,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-02-27 22:51:48 +0100"
@@ -486,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-02-26 21:49:52 +0100"
@@ -501,6 +537,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 21:50:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-03-02 22:59:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-02 22:54:21 +0100"
     },
     "done": true
   },
@@ -708,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-02 22:33:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
@@ -721,6 +775,7 @@
       "skeleton": "2020-02-27 21:48:49 +0100",
       "zombie": "2020-02-27 18:57:12 +0100",
       "spider": "2020-02-27 23:05:39 +0100",
+      "ghast": "2020-03-02 22:59:05 +0100",
       "creeper": "2020-02-26 22:16:29 +0100",
       "enderman": "2020-02-27 18:54:31 +0100"
     },
@@ -729,6 +784,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-02-27 21:45:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-03-02 22:32:35 +0100"
     },
     "done": true
   },
@@ -1116,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-02 22:33:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-02-27 22:36:24 +0100"
@@ -1272,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-02-27 19:52:55 +0100"
@@ -1281,6 +1354,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "birch_forest": "2020-02-27 22:11:16 +0100",
+      "deep_ocean": "2020-03-02 22:41:01 +0100",
       "beaches": "2020-02-27 19:43:44 +0100",
       "plains": "2020-02-26 21:24:36 +0100",
       "taiga": "2020-02-26 22:44:04 +0100",
@@ -1297,6 +1371,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-28 00:02:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-03-02 21:47:34 +0100"
     },
     "done": true
   },
@@ -1381,6 +1461,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-02-27 19:20:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-03-02 22:34:13 +0100"
     },
     "done": true
   },

@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-29 14:40:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-03-02 23:39:31 +0100"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-29 16:07:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-02 23:39:29 +0100"
     },
     "done": true
   },
@@ -194,6 +212,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-02-29 14:42:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-02 23:24:26 +0100"
     },
     "done": true
   },
@@ -325,6 +355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-03-02 23:39:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-02-29 15:13:05 +0100"
@@ -367,11 +403,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-29 15:49:25 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2020-03-02 23:48:44 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -397,6 +445,12 @@
       "iron_chestplate": "2020-02-29 14:57:03 +0100",
       "iron_leggings": "2020-02-29 14:57:03 +0100",
       "iron_helmet": "2020-02-29 14:57:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
     },
     "done": true
   },
@@ -598,7 +652,8 @@
       "zombie": "2020-02-29 15:06:50 +0100",
       "witch": "2020-03-01 18:19:21 +0100",
       "spider": "2020-02-29 15:12:09 +0100",
-      "creeper": "2020-02-29 15:16:13 +0100"
+      "creeper": "2020-02-29 15:16:13 +0100",
+      "enderman": "2020-03-02 22:42:40 +0100"
     },
     "done": false
   },
@@ -830,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-03-02 22:50:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-02-29 15:04:49 +0100"
@@ -1052,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "swampland": "2020-02-29 17:50:11 +0100",
@@ -1158,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-03-02 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-29 16:07:59 +0100"
@@ -1179,6 +1252,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-02-29 16:03:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2020-03-02 23:48:44 +0100"
     },
     "done": true
   },
