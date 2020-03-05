@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-03-05 18:34:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-26 14:45:54 +0100"
@@ -724,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-05 18:43:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-02-27 22:58:14 +0100"
@@ -757,6 +769,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-02-25 17:20:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-03-05 18:52:39 +0100"
     },
     "done": true
   },
@@ -1297,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-03-05 18:34:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-02-26 14:45:54 +0100"
@@ -1417,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-05 18:43:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-03-02 00:10:51 +0100"
@@ -1527,6 +1557,7 @@
       "taiga_cold": "2020-02-27 00:51:02 +0100",
       "ocean": "2020-02-27 00:38:03 +0100",
       "extreme_hills": "2020-02-27 00:33:53 +0100",
+      "roofed_forest": "2020-03-05 18:15:22 +0100",
       "cold_beach": "2020-02-27 00:45:02 +0100",
       "river": "2020-02-27 00:23:57 +0100",
       "desert": "2020-02-27 00:24:05 +0100",

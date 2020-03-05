@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/wither_key": {
+    "criteria": {
+      "has_wither_stick": "2020-03-05 18:54:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 21:50:02 +0100"
@@ -525,6 +531,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2020-02-27 22:35:39 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/wither_planks": {
+    "criteria": {
+      "has_logs": "2020-03-05 18:53:55 +0100"
     },
     "done": true
   },
@@ -597,6 +609,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-03-05 18:12:35 +0100"
     },
     "done": true
   },
@@ -835,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-05 19:07:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-02-27 21:42:27 +0100"
@@ -892,6 +916,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2020-03-05 17:54:46 +0100"
     },
     "done": true
   },
@@ -979,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2020-03-05 17:54:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-02-27 22:35:39 +0100"
@@ -1024,6 +1060,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-02-27 21:45:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2020-03-05 17:54:46 +0100"
     },
     "done": true
   },
@@ -1399,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-05 19:07:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-02-27 19:52:55 +0100"
@@ -1411,8 +1459,11 @@
       "birch_forest": "2020-02-27 22:11:16 +0100",
       "deep_ocean": "2020-03-02 22:41:01 +0100",
       "beaches": "2020-02-27 19:43:44 +0100",
+      "extreme_hills_with_trees": "2020-03-05 18:55:46 +0100",
       "plains": "2020-02-26 21:24:36 +0100",
       "taiga": "2020-02-26 22:44:04 +0100",
+      "taiga_hills": "2020-03-05 18:49:58 +0100",
+      "extreme_hills": "2020-03-05 18:53:03 +0100",
       "river": "2020-02-27 22:35:47 +0100"
     },
     "done": false
@@ -1489,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2020-03-05 17:54:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-02-27 19:20:57 +0100"
@@ -1558,6 +1615,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-03-05 17:54:46 +0100"
     },
     "done": true
   },
@@ -1678,6 +1741,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-02-26 21:49:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-05 19:07:30 +0100"
     },
     "done": true
   },
