@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "treasure2:recipes/skull_chest": {
-    "criteria": {
-      "has_skull": "2020-02-27 22:47:35 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:27:00 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2020-02-27 22:47:35 +0100"
     },
     "done": true
   },
@@ -215,15 +215,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_yellow_flower": "2020-02-27 22:28:07 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-02-27 22:27:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-02-27 22:28:07 +0100"
     },
     "done": true
   },
@@ -251,15 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2020-02-27 22:27:09 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:27:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2020-02-27 22:27:09 +0100"
     },
     "done": true
   },
@@ -281,15 +281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2020-02-27 22:41:09 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-02-27 22:34:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-02-27 22:41:09 +0100"
     },
     "done": true
   },
@@ -305,21 +305,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2020-02-27 22:34:53 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-02-27 22:27:09 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "has_iron_ingot": "2020-02-27 22:28:07 +0100"
+      "has_gold_ingot": "2020-02-27 22:34:53 +0100"
     },
     "done": true
   },
@@ -330,15 +324,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_glowstone_dust": "2020-02-27 22:34:53 +0100"
+      "has_iron_ingot": "2020-02-27 22:28:07 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-02-27 22:27:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-02-27 22:34:53 +0100"
     },
     "done": true
   },
@@ -366,15 +366,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2020-02-27 22:54:31 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-02-27 22:54:31 +0100"
     },
     "done": true
   },
@@ -450,15 +450,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2020-02-27 22:34:53 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-27 22:34:53 +0100"
     },
     "done": true
   },
@@ -474,15 +474,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/string_to_wool": {
-    "criteria": {
-      "has_string": "2020-02-27 22:54:31 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2020-02-27 22:54:31 +0100"
     },
     "done": true
   },
@@ -576,27 +576,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2020-02-27 22:47:20 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-27 22:28:07 +0100"
     },
     "done": true
   },
-  "tombstone:tutorial/enchant_grave_key": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_upgraded_grave_key": "2020-02-26 21:27:29 +0100"
+      "slept_in_bed": "2020-02-27 22:47:20 +0100"
     },
     "done": true
   },
-  "tombstone:recipes/from_strange_scroll": {
+  "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
-      "has_ingredient": "2020-02-27 22:31:05 +0100"
+      "has_upgraded_grave_key": "2020-02-26 21:27:29 +0100"
     },
     "done": true
   },
@@ -612,15 +606,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "tombstone:recipes/from_strange_scroll": {
     "criteria": {
-      "has_redstone": "2020-02-27 22:28:07 +0100"
+      "has_ingredient": "2020-02-27 22:31:05 +0100"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-02-27 22:19:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-02-27 22:28:07 +0100"
     },
     "done": true
   },
@@ -786,18 +786,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2020-02-27 22:59:52 +0100",
       "zombie": "2020-02-27 22:29:10 +0100"
     },
     "done": false
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2020-02-27 22:28:07 +0100"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -895,15 +895,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_stone": "2020-02-27 22:34:53 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-02-27 22:34:53 +0100"
     },
     "done": true
   },
