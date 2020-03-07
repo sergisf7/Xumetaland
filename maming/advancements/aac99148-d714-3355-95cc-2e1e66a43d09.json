@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-03-07 01:46:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 22:16:40 +0100"
@@ -893,8 +899,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2020-02-28 02:46:53 +0100",
+      "wither_skeleton": "2020-03-07 01:40:58 +0100",
       "zombie_villager": "2020-03-01 17:16:29 +0100",
+      "magma_cube": "2020-03-07 01:50:56 +0100",
       "skeleton": "2020-02-28 01:24:09 +0100",
+      "blaze": "2020-03-07 01:36:59 +0100",
       "zombie": "2020-02-28 00:45:32 +0100",
       "cave_spider": "2020-03-04 19:05:56 +0100",
       "spider": "2020-02-27 23:16:55 +0100",
@@ -913,6 +922,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-02-28 00:09:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2020-03-07 02:01:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-03-07 02:01:28 +0100"
     },
     "done": true
   },
@@ -937,6 +958,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-03-07 02:01:28 +0100"
     },
     "done": true
   },
@@ -1084,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-07 01:37:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-02-26 23:45:48 +0100"
@@ -1165,6 +1198,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-26 22:24:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-03-07 01:33:24 +0100"
     },
     "done": true
   },
@@ -1486,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-07 01:37:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-02-26 23:15:34 +0100"
@@ -1522,6 +1567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-03-07 00:55:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "creeper": "2020-02-27 01:04:18 +0100"
@@ -1534,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-03-07 01:37:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-02-26 23:37:08 +0100"
@@ -1543,6 +1600,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2020-02-28 00:09:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-07 02:01:28 +0100"
     },
     "done": true
   },
@@ -1603,6 +1666,12 @@
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-02-26 23:15:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-03-07 01:46:48 +0100"
     },
     "done": true
   },
@@ -1750,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-03-07 01:46:48 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2020-02-27 23:02:37 +0100"
@@ -1867,6 +1942,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-02-26 22:25:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-07 02:01:28 +0100"
     },
     "done": true
   },

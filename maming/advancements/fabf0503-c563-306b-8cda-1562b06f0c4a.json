@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-07 01:58:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 14:45:54 +0100"
@@ -200,6 +206,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-02-27 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-07 01:58:35 +0100"
     },
     "done": true
   },
@@ -361,6 +373,12 @@
     },
     "done": false
   },
+  "treasure2:recipes/sapphire_key": {
+    "criteria": {
+      "has_gem": "2020-03-07 01:55:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-02-26 14:47:34 +0100"
@@ -442,6 +460,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-02-27 18:37:56 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-03-07 01:59:27 +0100"
     },
     "done": true
   },
@@ -613,6 +637,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-02-26 01:16:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-07 01:58:35 +0100"
     },
     "done": true
   },
@@ -1577,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-03-07 01:12:14 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-02-27 23:53:38 +0100"
@@ -1739,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-07 01:58:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-02-27 01:25:27 +0100"
@@ -1760,6 +1802,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2020-02-25 17:20:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-03-07 01:58:35 +0100"
     },
     "done": true
   },
