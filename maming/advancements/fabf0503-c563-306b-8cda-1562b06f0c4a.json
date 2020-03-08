@@ -1052,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-08 15:16:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 14:45:54 +0100"
@@ -1484,6 +1490,12 @@
     },
     "done": true
   },
+  "cfm:modern_technology": {
+    "criteria": {
+      "placed_computer": "2020-03-08 15:17:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-02-27 19:02:51 +0100"
@@ -1553,6 +1565,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2020-02-26 23:32:39 +0100"
+    },
+    "done": true
+  },
+  "cfm:buy_item": {
+    "criteria": {
+      "minebay_purchase": "2020-03-08 15:18:04 +0100"
     },
     "done": true
   },
@@ -1803,6 +1821,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2020-03-08 15:17:09 +0100"
     },
     "done": true
   },
