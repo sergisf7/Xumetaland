@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-03-08 01:08:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2020-02-27 01:07:24 +0100"
@@ -170,6 +176,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-08 00:01:58 +0100"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-03-08 00:21:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-02-27 01:16:53 +0100"
@@ -369,7 +387,8 @@
     "criteria": {
       "cooked_beef": "2020-02-27 15:52:16 +0100",
       "baked_potato": "2020-02-26 14:33:44 +0100",
-      "apple": "2020-02-29 15:41:58 +0100"
+      "apple": "2020-02-29 15:41:58 +0100",
+      "cooked_salmon": "2020-03-08 01:09:13 +0100"
     },
     "done": false
   },
@@ -418,6 +437,12 @@
   "cfm:what_did_you_eat": {
     "criteria": {
       "player_fart": "2020-03-01 16:24:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-03-08 00:57:41 +0100"
     },
     "done": true
   },
@@ -493,6 +518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-03-08 01:08:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-02-27 16:49:29 +0100"
@@ -552,6 +583,12 @@
       "has_sand": "2020-02-25 18:05:52 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2020-03-08 01:08:09 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1790,6 +1827,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2020-03-08 01:08:09 +0100"
     },
     "done": true
   },

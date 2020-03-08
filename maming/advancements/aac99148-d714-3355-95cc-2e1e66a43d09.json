@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2020-03-07 22:05:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-02-26 22:49:26 +0100"
@@ -918,6 +924,7 @@
       "blaze": "2020-03-07 01:36:59 +0100",
       "zombie": "2020-02-28 00:45:32 +0100",
       "cave_spider": "2020-03-04 19:05:56 +0100",
+      "witch": "2020-03-07 21:34:47 +0100",
       "spider": "2020-02-27 23:16:55 +0100",
       "ghast": "2020-02-28 01:03:32 +0100",
       "creeper": "2020-02-27 01:04:18 +0100",
@@ -946,6 +953,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2020-03-07 02:01:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-08 00:53:21 +0100"
     },
     "done": true
   },
@@ -1435,6 +1448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-03-07 23:44:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-02-26 23:32:29 +0100"
@@ -1594,6 +1613,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-02-26 23:15:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-03-07 23:44:47 +0100"
     },
     "done": true
   },
