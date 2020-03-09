@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-09 00:28:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-02-27 01:25:27 +0100"
@@ -388,6 +394,7 @@
       "cooked_beef": "2020-02-27 15:52:16 +0100",
       "baked_potato": "2020-02-26 14:33:44 +0100",
       "apple": "2020-02-29 15:41:58 +0100",
+      "cooked_cod": "2020-03-08 18:59:41 +0100",
       "cooked_salmon": "2020-03-08 01:09:13 +0100"
     },
     "done": false
@@ -509,6 +516,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2020-02-27 19:13:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-09 00:28:49 +0100"
     },
     "done": true
   },
