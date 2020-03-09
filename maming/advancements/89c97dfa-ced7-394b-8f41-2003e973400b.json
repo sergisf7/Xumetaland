@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
@@ -158,6 +164,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-08 20:35:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-09 20:14:16 +0100"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-03-08 20:35:45 +0100"
@@ -304,8 +322,10 @@
       "cooked_beef": "2020-03-08 20:25:52 +0100",
       "baked_potato": "2020-03-07 00:40:53 +0100",
       "beef": "2020-03-09 13:58:34 +0100",
+      "cooked_cod": "2020-03-09 23:29:53 +0100",
       "mutton": "2020-03-09 14:17:23 +0100",
       "pufferfish": "2020-03-07 20:06:12 +0100",
+      "bread": "2020-03-09 20:56:26 +0100",
       "rotten_flesh": "2020-03-07 14:37:09 +0100",
       "beetroot": "2020-03-07 20:06:08 +0100",
       "carrot": "2020-03-07 20:06:36 +0100"
@@ -571,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
@@ -658,6 +684,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-07 01:19:53 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2020-03-09 20:25:56 +0100"
     },
     "done": true
   },
@@ -757,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
@@ -766,6 +804,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-03-07 17:17:23 +0100",
+      "slime": "2020-03-09 22:55:49 +0100",
       "skeleton": "2020-03-07 16:56:37 +0100",
       "zombie": "2020-03-07 00:59:25 +0100",
       "witch": "2020-03-09 15:29:08 +0100",
@@ -778,6 +817,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-03-08 17:05:27 +0100"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "iron": "2020-03-09 20:14:16 +0100"
     },
     "done": true
   },
@@ -1165,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-03-07 01:19:53 +0100"
@@ -1192,6 +1243,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-03-08 20:35:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-03-09 22:56:54 +0100"
     },
     "done": true
   },
@@ -1240,6 +1297,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-03-08 16:28:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-03-09 22:57:03 +0100"
     },
     "done": true
   },
@@ -1315,6 +1378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-03-09 22:56:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-03-07 13:38:16 +0100"
@@ -1324,11 +1393,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "birch_forest": "2020-03-08 19:44:52 +0100",
+      "swampland": "2020-03-09 20:29:39 +0100",
       "beaches": "2020-03-08 23:11:17 +0100",
       "forest_hills": "2020-03-07 18:43:36 +0100",
       "plains": "2020-03-07 00:37:20 +0100",
       "taiga": "2020-03-07 13:36:56 +0100",
+      "birch_forest_hills": "2020-03-09 23:41:00 +0100",
       "ocean": "2020-03-09 13:36:15 +0100",
+      "extreme_hills": "2020-03-10 00:21:11 +0100",
       "river": "2020-03-09 13:34:09 +0100"
     },
     "done": false
@@ -1429,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-03-09 20:32:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-03-07 00:41:24 +0100"
@@ -1489,6 +1567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-03-08 13:34:07 +0100"
@@ -1513,6 +1597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-03-09 20:14:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
@@ -1522,6 +1612,12 @@
   "railcraft:tracks/root": {
     "criteria": {
       "get_sand": "2020-03-07 17:02:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-03-09 20:32:35 +0100"
     },
     "done": true
   },
@@ -1606,6 +1702,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-07 22:34:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-03-09 22:57:03 +0100"
     },
     "done": true
   }

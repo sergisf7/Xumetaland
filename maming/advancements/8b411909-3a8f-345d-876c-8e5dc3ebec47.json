@@ -331,12 +331,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-03-09 21:36:16 +0100",
       "baked_potato": "2020-02-29 15:55:11 +0100",
       "apple": "2020-02-29 15:42:06 +0100",
       "potato": "2020-02-29 16:48:08 +0100",
       "cooked_cod": "2020-03-08 23:00:01 +0100",
       "bread": "2020-03-01 15:45:21 +0100",
-      "cookie": "2020-03-08 16:33:16 +0100"
+      "cookie": "2020-03-08 16:33:16 +0100",
+      "cooked_salmon": "2020-03-09 22:40:49 +0100"
     },
     "done": false
   },
@@ -511,6 +513,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-03-09 23:12:14 +0100"
     },
     "done": true
   },
@@ -809,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-03-09 20:26:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-06 20:57:20 +0100"
@@ -830,6 +844,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-03-09 20:26:15 +0100"
     },
     "done": true
   },
@@ -911,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-09 23:12:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2020-03-01 16:47:49 +0100"
@@ -956,6 +982,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-03-09 20:37:08 +0100"
     },
     "done": true
   },
@@ -1392,6 +1424,7 @@
       "birch_forest": "2020-03-08 14:15:44 +0100",
       "deep_ocean": "2020-03-02 00:26:11 +0100",
       "beaches": "2020-03-01 16:21:16 +0100",
+      "extreme_hills_with_trees": "2020-03-09 20:40:02 +0100",
       "forest_hills": "2020-03-07 13:53:35 +0100",
       "plains": "2020-02-28 22:20:11 +0100",
       "taiga": "2020-02-29 18:05:46 +0100",
