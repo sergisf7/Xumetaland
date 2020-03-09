@@ -796,6 +796,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2020-03-09 18:21:46 +0100",
       "skeleton": "2020-02-27 22:59:52 +0100",
       "zombie": "2020-02-27 22:29:10 +0100",
       "witch": "2020-03-07 22:53:47 +0100",

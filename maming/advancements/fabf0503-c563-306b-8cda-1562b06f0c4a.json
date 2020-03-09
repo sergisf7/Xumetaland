@@ -395,6 +395,7 @@
       "baked_potato": "2020-02-26 14:33:44 +0100",
       "apple": "2020-02-29 15:41:58 +0100",
       "cooked_cod": "2020-03-08 18:59:41 +0100",
+      "rotten_flesh": "2020-03-09 19:38:32 +0100",
       "cooked_salmon": "2020-03-08 01:09:13 +0100"
     },
     "done": false
@@ -759,6 +760,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 14:49:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-03-09 16:06:27 +0100"
     },
     "done": true
   },

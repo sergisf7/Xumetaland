@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2020-03-09 13:50:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
@@ -287,10 +293,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-03-09 13:37:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2020-03-08 20:25:52 +0100",
       "baked_potato": "2020-03-07 00:40:53 +0100",
+      "beef": "2020-03-09 13:58:34 +0100",
+      "mutton": "2020-03-09 14:17:23 +0100",
       "pufferfish": "2020-03-07 20:06:12 +0100",
       "rotten_flesh": "2020-03-07 14:37:09 +0100",
       "beetroot": "2020-03-07 20:06:08 +0100",
@@ -358,6 +372,12 @@
     },
     "done": true
   },
+  "railcraft:carts/root": {
+    "criteria": {
+      "step_on_track": "2020-03-09 19:50:26 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2020-03-07 00:51:58 +0100"
@@ -394,6 +414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2020-03-09 13:50:56 +0100"
+    },
+    "done": true
+  },
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-07 00:48:04 +0100"
@@ -424,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-03-09 13:37:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-03-07 01:00:26 +0100"
@@ -433,6 +465,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-03-09 13:37:20 +0100"
     },
     "done": true
   },
@@ -478,9 +516,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-03-09 15:55:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-03-09 16:02:20 +0100",
+      "iron_leggings": "2020-03-09 16:02:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-03-08 17:05:27 +0100"
+    },
+    "done": true
+  },
+  "cfm:gardening": {
+    "criteria": {
+      "get_outdoor_furniture": "2020-03-09 14:02:54 +0100"
     },
     "done": true
   },
@@ -711,7 +768,9 @@
       "zombie_villager": "2020-03-07 17:17:23 +0100",
       "skeleton": "2020-03-07 16:56:37 +0100",
       "zombie": "2020-03-07 00:59:25 +0100",
+      "witch": "2020-03-09 15:29:08 +0100",
       "spider": "2020-03-07 01:02:13 +0100",
+      "creeper": "2020-03-09 14:54:48 +0100",
       "enderman": "2020-03-09 00:33:24 +0100"
     },
     "done": false
@@ -830,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2020-03-09 15:55:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 13:44:27 +0100"
@@ -839,6 +904,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 13:44:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-09 15:55:19 +0100"
     },
     "done": true
   },
@@ -1019,6 +1090,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-03-08 19:10:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-09 13:31:10 +0100"
     },
     "done": true
   },
@@ -1250,7 +1327,9 @@
       "beaches": "2020-03-08 23:11:17 +0100",
       "forest_hills": "2020-03-07 18:43:36 +0100",
       "plains": "2020-03-07 00:37:20 +0100",
-      "taiga": "2020-03-07 13:36:56 +0100"
+      "taiga": "2020-03-07 13:36:56 +0100",
+      "ocean": "2020-03-09 13:36:15 +0100",
+      "river": "2020-03-09 13:34:09 +0100"
     },
     "done": false
   },
@@ -1374,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-03-09 15:55:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-03-08 13:49:25 +0100"
@@ -1479,6 +1564,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-03-09 13:50:12 +0100"
     },
     "done": true
   },
