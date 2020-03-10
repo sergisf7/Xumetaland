@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-03-10 23:45:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-02-28 22:25:10 +0100"
@@ -331,14 +337,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-03-10 22:39:10 +0100",
       "cooked_mutton": "2020-03-09 21:36:16 +0100",
+      "cooked_beef": "2020-03-10 22:47:27 +0100",
       "baked_potato": "2020-02-29 15:55:11 +0100",
       "apple": "2020-02-29 15:42:06 +0100",
       "potato": "2020-02-29 16:48:08 +0100",
       "cooked_cod": "2020-03-08 23:00:01 +0100",
       "bread": "2020-03-01 15:45:21 +0100",
       "cookie": "2020-03-08 16:33:16 +0100",
-      "cooked_salmon": "2020-03-09 22:40:49 +0100"
+      "cooked_salmon": "2020-03-09 22:40:49 +0100",
+      "carrot": "2020-03-10 22:32:13 +0100"
     },
     "done": false
   },
@@ -369,6 +378,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-03-02 19:49:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-03-10 23:48:55 +0100"
     },
     "done": true
   },
@@ -501,6 +516,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-03-01 16:35:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-03-10 22:33:45 +0100"
     },
     "done": true
   },
@@ -973,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-03-10 22:33:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-03-04 23:34:40 +0100"
@@ -1189,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-03-10 23:48:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-02-28 22:39:30 +0100"
@@ -1216,6 +1249,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-03-06 00:35:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-03-10 23:45:13 +0100"
     },
     "done": true
   },
@@ -1264,6 +1303,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-03-08 16:00:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-03-10 23:48:55 +0100"
     },
     "done": true
   },
@@ -1444,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-03-10 22:42:46 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-02-29 17:34:30 +0100"
@@ -1537,6 +1588,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-03-08 23:11:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-03-10 22:32:08 +0100"
     },
     "done": true
   },
