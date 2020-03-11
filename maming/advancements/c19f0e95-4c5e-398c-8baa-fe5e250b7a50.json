@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-03-11 23:24:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 20:33:50 +0100"
@@ -334,6 +340,8 @@
       "cooked_beef": "2020-03-07 00:29:34 +0100",
       "baked_potato": "2020-03-07 00:10:57 +0100",
       "potato": "2020-02-27 22:53:17 +0100",
+      "cooked_cod": "2020-03-11 20:19:29 +0100",
+      "cooked_salmon": "2020-03-11 20:52:20 +0100",
       "carrot": "2020-02-27 22:19:10 +0100"
     },
     "done": false
@@ -551,6 +559,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-03-08 00:40:01 +0100"
+    },
+    "done": true
+  },
+  "cfm:gardening": {
+    "criteria": {
+      "get_outdoor_furniture": "2020-03-11 20:54:09 +0100"
     },
     "done": true
   },
@@ -798,16 +812,30 @@
     "criteria": {
       "zombie_villager": "2020-03-09 18:21:46 +0100",
       "skeleton": "2020-02-27 22:59:52 +0100",
+      "blaze": "2020-03-11 23:33:17 +0100",
       "zombie": "2020-02-27 22:29:10 +0100",
       "witch": "2020-03-07 22:53:47 +0100",
       "spider": "2020-03-09 21:31:38 +0100",
-      "creeper": "2020-03-08 00:58:34 +0100"
+      "creeper": "2020-03-08 00:58:34 +0100",
+      "enderman": "2020-03-11 23:18:11 +0100"
     },
     "done": false
   },
   "railcraft:tracks/regular_track": {
     "criteria": {
       "iron": "2020-02-27 22:34:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-03-11 23:24:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-11 19:22:48 +0100"
     },
     "done": true
   },
@@ -919,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-11 21:32:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 20:33:50 +0100"
@@ -970,6 +1004,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-11 23:34:42 +0100"
     },
     "done": true
   },
@@ -1048,6 +1088,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:40:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-03-11 23:31:19 +0100"
     },
     "done": true
   },
@@ -1138,6 +1184,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-02-27 22:34:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-03-11 18:55:44 +0100"
     },
     "done": true
   },
@@ -1333,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-11 23:34:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-02-27 22:28:07 +0100"
@@ -1393,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-03-11 23:34:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-02-27 22:34:53 +0100"
@@ -1409,8 +1473,10 @@
     "criteria": {
       "birch_forest": "2020-03-07 00:12:30 +0100",
       "swampland": "2020-03-07 19:17:16 +0100",
+      "beaches": "2020-03-11 22:23:48 +0100",
       "plains": "2020-02-26 21:26:59 +0100",
       "birch_forest_hills": "2020-03-07 19:37:05 +0100",
+      "extreme_hills": "2020-03-11 19:29:36 +0100",
       "river": "2020-03-07 19:17:07 +0100"
     },
     "done": false
@@ -1442,6 +1508,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-03-11 21:34:03 +0100"
     },
     "done": true
   },
@@ -1499,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-11 21:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-03-07 00:49:23 +0100"
@@ -1508,6 +1586,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-11 21:33:58 +0100"
     },
     "done": true
   },

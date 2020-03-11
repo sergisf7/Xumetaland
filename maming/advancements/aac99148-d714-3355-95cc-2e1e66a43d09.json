@@ -382,7 +382,9 @@
       "cooked_beef": "2020-03-01 17:16:22 +0100",
       "beef": "2020-02-27 01:21:30 +0100",
       "baked_potato": "2020-03-01 15:43:49 +0100",
-      "bread": "2020-02-26 14:22:25 +0100"
+      "bread": "2020-02-26 14:22:25 +0100",
+      "cooked_salmon": "2020-03-11 22:33:33 +0100",
+      "carrot": "2020-03-11 22:09:45 +0100"
     },
     "done": false
   },
@@ -557,6 +559,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-03-11 23:20:54 +0100"
     },
     "done": true
   },
@@ -1142,6 +1150,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-11 23:20:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
@@ -1253,6 +1267,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-11 23:20:54 +0100"
     },
     "done": true
   },

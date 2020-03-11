@@ -804,6 +804,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-03-01 23:15:42 +0100",
+      "magma_cube": "2020-03-11 23:26:07 +0100",
       "slime": "2020-03-08 16:00:18 +0100",
       "skeleton": "2020-03-02 19:25:16 +0100",
       "blaze": "2020-03-02 00:11:29 +0100",
@@ -991,6 +992,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2020-03-06 00:36:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-11 23:21:59 +0100"
     },
     "done": true
   },
@@ -1384,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-11 23:21:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-03-06 20:57:16 +0100"
@@ -1435,6 +1448,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-03-08 16:00:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-03-11 23:21:59 +0100"
     },
     "done": true
   },
