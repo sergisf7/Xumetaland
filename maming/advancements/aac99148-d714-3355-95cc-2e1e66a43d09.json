@@ -389,6 +389,12 @@
     },
     "done": false
   },
+  "treasure2:recipes/sapphire_key": {
+    "criteria": {
+      "has_gem": "2020-03-13 19:29:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-02-26 22:16:48 +0100"
@@ -773,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2020-03-13 16:58:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-02-26 13:25:38 +0100"
@@ -945,6 +957,7 @@
       "blaze": "2020-03-07 01:36:59 +0100",
       "zombie": "2020-02-28 00:45:32 +0100",
       "cave_spider": "2020-03-04 19:05:56 +0100",
+      "silverfish": "2020-03-13 18:43:30 +0100",
       "witch": "2020-03-07 21:34:47 +0100",
       "spider": "2020-02-27 23:16:55 +0100",
       "ghast": "2020-02-28 01:03:32 +0100",
@@ -1133,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2020-03-13 16:58:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-02-26 23:15:34 +0100"
@@ -1268,6 +1287,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-03-13 16:28:12 +0100"
     },
     "done": true
   },
@@ -1985,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-13 16:28:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-02-26 23:37:08 +0100"
@@ -2045,6 +2076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2020-03-13 16:58:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-26 22:24:49 +0100"
@@ -2060,6 +2097,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2020-03-13 01:26:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2020-03-13 16:28:12 +0100"
     },
     "done": true
   }
