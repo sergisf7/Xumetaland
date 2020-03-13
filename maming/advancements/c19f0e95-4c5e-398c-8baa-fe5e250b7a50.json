@@ -343,6 +343,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-03-13 14:26:25 +0100",
       "cooked_beef": "2020-03-07 00:29:34 +0100",
       "baked_potato": "2020-03-07 00:10:57 +0100",
       "potato": "2020-02-27 22:53:17 +0100",
@@ -1014,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-03-13 13:44:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:27:00 +0100"
@@ -1577,6 +1584,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-03-13 13:36:42 +0100"
     },
     "done": true
   },
