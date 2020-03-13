@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-03-12 23:32:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-02-26 14:45:54 +0100"
@@ -391,13 +397,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-03-13 01:01:46 +0100",
       "cooked_beef": "2020-02-27 15:52:16 +0100",
       "baked_potato": "2020-02-26 14:33:44 +0100",
       "apple": "2020-02-29 15:41:58 +0100",
       "cooked_cod": "2020-03-08 18:59:41 +0100",
       "rotten_flesh": "2020-03-09 19:38:32 +0100",
       "cookie": "2020-03-12 01:45:22 +0100",
-      "cooked_salmon": "2020-03-08 01:09:13 +0100"
+      "cooked_salmon": "2020-03-08 01:09:13 +0100",
+      "carrot": "2020-03-12 20:44:50 +0100"
     },
     "done": false
   },
@@ -1977,9 +1985,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2020-03-12 23:35:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-02-27 18:37:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-03-13 00:30:20 +0100"
     },
     "done": true
   },
