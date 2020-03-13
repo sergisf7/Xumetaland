@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:15:14 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-03-12 16:42:04 +0100"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-12 20:19:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:15:14 +0100"
     },
     "done": true
   },
@@ -254,6 +266,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-03-12 20:02:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-03-13 10:44:08 +0100"
     },
     "done": true
   },
@@ -471,9 +489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:15:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-03-12 20:02:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:17:32 +0100"
     },
     "done": true
   },
@@ -627,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-13 12:05:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "swampland": "2020-03-12 20:50:01 +0100",
@@ -654,6 +690,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-03-12 21:04:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:17:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-13 12:35:19 +0100"
     },
     "done": true
   },
@@ -795,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:17:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-12 20:19:22 +0100"
@@ -822,6 +876,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-03-12 19:37:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:15:14 +0100"
     },
     "done": true
   },
@@ -898,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:15:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-03-12 20:19:30 +0100"
@@ -913,6 +979,18 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2020-03-12 16:45:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:17:32 +0100"
+    },
+    "done": true
+  },
+  "railcraft:tracks/root": {
+    "criteria": {
+      "get_sand": "2020-03-13 12:35:19 +0100"
     },
     "done": true
   },
@@ -979,6 +1057,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2020-03-12 20:02:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-03-13 10:17:32 +0100"
     },
     "done": true
   },
