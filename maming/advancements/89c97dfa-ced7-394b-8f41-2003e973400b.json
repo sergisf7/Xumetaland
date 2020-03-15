@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-03-15 00:19:40 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-03-07 00:37:21 +0100"
@@ -387,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-03-15 00:58:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-03-07 01:11:11 +0100"
@@ -492,6 +504,12 @@
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-07 00:48:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-03-15 00:19:40 +0100"
     },
     "done": true
   },
@@ -718,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-03-15 00:56:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
@@ -835,6 +859,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-03-07 00:51:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-03-15 01:03:34 +0100"
     },
     "done": true
   },
@@ -996,6 +1026,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-03-07 13:59:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-03-15 00:58:50 +0100"
     },
     "done": true
   },
@@ -1311,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-03-15 01:03:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-03-07 18:24:09 +0100"
@@ -1452,6 +1494,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-03-09 22:56:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-03-15 01:03:34 +0100"
     },
     "done": true
   },
@@ -1789,6 +1837,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-03-15 00:58:50 +0100"
     },
     "done": true
   },
