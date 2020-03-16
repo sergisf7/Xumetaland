@@ -528,6 +528,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
@@ -537,6 +543,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-02-27 22:10:55 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
     },
     "done": true
   },
@@ -665,6 +677,12 @@
       "has_bed": "2020-03-09 23:12:14 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2020-03-16 20:26:17 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1272,6 +1290,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-02-28 22:25:10 +0100"
@@ -1293,6 +1317,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-02-27 22:10:55 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
     },
     "done": true
   },
@@ -1476,6 +1506,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-02-26 21:49:52 +0100"
@@ -1569,6 +1605,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-03-08 22:02:01 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-16 20:18:58 +0100"
     },
     "done": true
   },
@@ -2086,6 +2128,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-02-26 21:57:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2020-03-16 20:26:17 +0100"
     },
     "done": true
   },
