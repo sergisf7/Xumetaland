@@ -1442,3 +1442,6 @@ java.net.UnknownHostException: raw.githubusercontent.com
 2020-03-16 00:42:14,756 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
 2020-03-16 00:42:14,757 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:368 | CHEATER! SCARCE chest at coords: -2984 64 5144
 2020-03-16 00:43:04,024 [Server thread] INFO Treasure2 | WellGenerator.java:114 | CHEATER! Wishing Well at coords: -2906 70 4998
+2020-03-16 02:30:05,718 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-03-16 02:30:05,842 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-03-16 02:30:05,937 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
