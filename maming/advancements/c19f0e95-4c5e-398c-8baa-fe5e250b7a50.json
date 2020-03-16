@@ -493,6 +493,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-02-27 22:27:09 +0100"
@@ -502,6 +508,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:57:23 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
     },
     "done": true
   },
@@ -1193,6 +1205,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:27:00 +0100"
@@ -1220,6 +1238,12 @@
   "casinocraft:recipes/module_clay_halma": {
     "criteria": {
       "has_clay": "2020-03-16 14:40:59 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
     },
     "done": true
   },
@@ -1409,6 +1433,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-03-07 00:25:18 +0100"
@@ -1514,6 +1544,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-02-27 22:34:53 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-16 19:11:15 +0100"
     },
     "done": true
   },
@@ -1809,7 +1845,8 @@
       "ocean": "2020-03-12 22:05:04 +0100",
       "extreme_hills": "2020-03-11 19:29:36 +0100",
       "roofed_forest": "2020-03-14 19:36:27 +0100",
-      "river": "2020-03-07 19:17:07 +0100"
+      "river": "2020-03-07 19:17:07 +0100",
+      "desert": "2020-03-16 19:00:38 +0100"
     },
     "done": false
   },
