@@ -203,6 +203,18 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_minesweeper": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_memory": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-01 18:51:18 +0100"
@@ -527,6 +539,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_mysticsquare": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 21:50:02 +0100"
@@ -644,6 +662,12 @@
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2020-02-26 22:14:47 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_sudoku": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
     },
     "done": true
   },
@@ -776,6 +800,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-02-26 21:49:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-19 20:47:24 +0100"
     },
     "done": true
   },
@@ -1245,6 +1275,12 @@
   "casinocraft:recipes/cardtable_base_white": {
     "criteria": {
       "has_wool": "2020-03-17 17:06:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-03-19 20:49:56 +0100"
     },
     "done": true
   },
@@ -1969,6 +2005,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_halma": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_freecell": {
     "criteria": {
       "has_paper": "2020-03-16 15:38:23 +0100"
@@ -2131,9 +2173,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_craps": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-02-07 13:53:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-03-19 20:49:56 +0100"
     },
     "done": true
   },
@@ -2146,6 +2200,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2020-02-26 21:03:05 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_roulette": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
     },
     "done": true
   },
@@ -2326,6 +2386,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2020-03-16 20:26:17 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_sicbo": {
+    "criteria": {
+      "has_clay": "2020-03-19 20:47:24 +0100"
     },
     "done": true
   },
