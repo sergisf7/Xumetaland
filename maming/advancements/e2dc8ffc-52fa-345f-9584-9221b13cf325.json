@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2020-03-20 15:27:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-02-29 17:50:31 +0100"
@@ -1064,7 +1070,8 @@
       "extreme_hills": "2020-03-05 18:53:03 +0100",
       "roofed_forest": "2020-03-11 22:21:37 +0100",
       "river": "2020-02-27 22:35:47 +0100",
-      "desert": "2020-03-15 16:21:19 +0100"
+      "desert": "2020-03-15 16:21:19 +0100",
+      "stone_beach": "2020-03-20 16:53:02 +0100"
     },
     "done": false
   },
@@ -1490,6 +1497,7 @@
       "apple": "2020-03-15 16:18:19 +0100",
       "cooked_cod": "2020-03-10 22:51:47 +0100",
       "bread": "2020-03-11 22:26:58 +0100",
+      "cookie": "2020-03-20 15:27:26 +0100",
       "cooked_salmon": "2020-03-11 23:16:43 +0100",
       "carrot": "2020-02-15 01:35:53 +0100"
     },

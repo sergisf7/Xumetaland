@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-02-28 22:25:10 +0100"
@@ -493,6 +499,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
     },
     "done": true
   },
@@ -748,6 +760,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-03-20 17:20:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-02-29 15:42:06 +0100"
@@ -918,6 +936,7 @@
       "skeleton": "2020-03-02 19:25:16 +0100",
       "blaze": "2020-03-02 00:11:29 +0100",
       "zombie": "2020-02-29 15:52:55 +0100",
+      "cave_spider": "2020-03-20 17:13:53 +0100",
       "spider": "2020-03-02 19:09:30 +0100",
       "creeper": "2020-03-02 18:56:47 +0100",
       "enderman": "2020-03-04 23:27:06 +0100"
@@ -1110,6 +1129,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-02-29 15:49:37 +0100"
@@ -1119,6 +1144,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
     },
     "done": true
   },
@@ -1296,6 +1327,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-03-01 16:40:02 +0100"
@@ -1395,6 +1432,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-03-06 00:35:36 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-20 16:23:33 +0100"
     },
     "done": true
   },

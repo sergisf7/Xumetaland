@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-03-20 18:55:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pillar_quartz_block": {
     "criteria": {
       "has_quartz_block": "2020-02-28 01:05:21 +0100"
@@ -98,6 +104,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-20 16:55:52 +0100"
     },
     "done": true
   },
@@ -287,9 +299,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_minesweeper": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-02-26 21:40:49 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_memory": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
     },
     "done": true
   },
@@ -320,6 +344,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-03-04 01:00:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-03-20 18:55:51 +0100"
     },
     "done": true
   },
@@ -491,6 +521,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-02-26 23:10:25 +0100"
@@ -500,6 +536,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
     },
     "done": true
   },
@@ -578,6 +620,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2020-03-07 18:34:15 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/cardtable_base_blue": {
+    "criteria": {
+      "has_wool": "2020-03-20 18:55:51 +0100"
     },
     "done": true
   },
@@ -846,6 +894,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_mysticsquare": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 22:16:40 +0100"
@@ -1099,6 +1153,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_sudoku": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-02-26 23:15:34 +0100"
@@ -1126,6 +1186,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2020-02-28 01:23:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2020-03-20 18:20:14 +0100"
     },
     "done": true
   },
@@ -1171,6 +1237,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-02-26 22:16:48 +0100"
@@ -1186,6 +1258,18 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_halma": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
     },
     "done": true
   },
@@ -1375,6 +1459,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-02-26 23:13:02 +0100"
@@ -1471,6 +1561,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-20 17:25:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-03-01 15:28:18 +0100"
@@ -1561,6 +1657,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_craps": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-02-26 13:27:12 +0100"
@@ -1624,6 +1726,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2020-02-26 23:13:02 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_roulette": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
     },
     "done": true
   },
@@ -1933,6 +2041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-03-20 18:20:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-02-26 23:15:34 +0100"
@@ -1960,6 +2074,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2020-03-04 19:30:15 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_sicbo": {
+    "criteria": {
+      "has_clay": "2020-03-20 17:52:20 +0100"
     },
     "done": true
   },
@@ -2074,6 +2194,18 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-03-07 02:01:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-03-20 18:55:51 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/cardtable_base_white": {
+    "criteria": {
+      "has_wool": "2020-03-20 18:52:14 +0100"
     },
     "done": true
   },
