@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_card_pyramid": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-02-26 23:15:34 +0100"
@@ -452,6 +458,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-02-26 22:25:13 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_tripeak": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -554,6 +566,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-26 22:13:20 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_blackjack": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -687,6 +705,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2020-02-26 13:27:18 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_spider": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -879,6 +903,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2020-02-28 02:19:00 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_aceydeucey": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -1255,6 +1285,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_card_videopoker": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-02-26 23:32:29 +0100"
@@ -1276,6 +1312,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2020-02-26 23:15:34 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_freecell": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -1306,6 +1348,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-03-03 22:26:45 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_card_baccarat": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
     },
     "done": true
   },
@@ -1735,6 +1783,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_card_rougeetnoir": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-02-27 23:50:50 +0100"
@@ -2059,6 +2113,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_card_klondike": {
+    "criteria": {
+      "has_paper": "2020-03-20 23:20:16 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2020-02-27 23:02:37 +0100"
@@ -2197,15 +2257,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2020-03-20 18:55:51 +0100"
-    },
-    "done": true
-  },
   "casinocraft:recipes/cardtable_base_white": {
     "criteria": {
       "has_wool": "2020-03-20 18:52:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-03-20 18:55:51 +0100"
     },
     "done": true
   },
