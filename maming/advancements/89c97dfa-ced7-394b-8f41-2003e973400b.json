@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-21 17:37:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-03-17 03:33:11 +0100"
@@ -977,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-21 17:37:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-03-11 18:34:20 +0100"
@@ -1222,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-21 17:37:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2020-03-09 22:57:03 +0100"
@@ -1432,6 +1450,12 @@
       "carrot": "2020-03-07 20:06:36 +0100"
     },
     "done": false
+  },
+  "treasure2:recipes/sapphire_key": {
+    "criteria": {
+      "has_gem": "2020-03-21 19:49:06 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

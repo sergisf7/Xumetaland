@@ -436,6 +436,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-03-21 16:34:40 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_stone_snake": {
     "criteria": {
       "has_redstone": "2020-03-16 17:30:23 +0100"
@@ -550,6 +556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-03-21 17:58:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-03-12 19:48:19 +0100"
@@ -607,6 +619,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-03-21 14:53:43 +0100"
     },
     "done": true
   },
@@ -905,6 +923,18 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2020-03-21 15:12:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-03-21 16:26:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-03-20 15:45:14 +0100"
@@ -956,6 +986,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-12 20:13:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-21 17:58:25 +0100"
     },
     "done": true
   },
@@ -1606,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-03-21 15:44:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-03-12 16:42:31 +0100"
@@ -1705,6 +1747,12 @@
   "railcraft:tracks/root": {
     "criteria": {
       "get_sand": "2020-03-13 12:35:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-03-21 15:44:20 +0100"
     },
     "done": true
   },

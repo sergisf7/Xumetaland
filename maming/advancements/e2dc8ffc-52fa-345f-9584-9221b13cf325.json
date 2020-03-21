@@ -1926,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-03-21 16:41:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-03-05 17:54:46 +0100"
@@ -1941,6 +1947,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2020-02-27 21:45:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-21 18:45:39 +0100"
     },
     "done": true
   },
