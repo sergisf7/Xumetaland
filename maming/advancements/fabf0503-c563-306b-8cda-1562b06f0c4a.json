@@ -350,9 +350,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-02-26 14:45:54 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
     },
     "done": true
   },
@@ -707,6 +719,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-03-04 00:51:37 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
     },
     "done": true
   },
@@ -1981,6 +1999,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_freecell": {
     "criteria": {
       "has_paper": "2020-03-20 00:00:01 +0100"
@@ -2077,6 +2101,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-02-26 14:45:54 +0100"
@@ -2122,6 +2152,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-13 18:53:30 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-21 00:58:54 +0100"
     },
     "done": true
   },

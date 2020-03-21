@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2020-03-21 00:44:14 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_yellow": {
     "criteria": {
       "has_quartz": "2020-03-17 17:27:21 +0100"

@@ -334,6 +334,7 @@
       "bread": "2020-03-12 20:38:09 +0100",
       "rotten_flesh": "2020-03-12 19:52:00 +0100",
       "cookie": "2020-03-20 18:40:48 +0100",
+      "cooked_chicken": "2020-03-21 00:50:43 +0100",
       "mushroom_stew": "2020-03-15 16:53:55 +0100",
       "carrot": "2020-03-12 19:38:48 +0100"
     },
@@ -498,6 +499,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-03-15 16:14:15 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/cardtable_base_gray": {
+    "criteria": {
+      "has_wool": "2020-03-21 00:59:35 +0100"
     },
     "done": true
   },
