@@ -1339,6 +1339,12 @@
     },
     "done": true
   },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "bright_constellation_discovered": "2020-03-21 20:07:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-02-27 22:52:05 +0100"
