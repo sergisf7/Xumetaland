@@ -1524,6 +1524,12 @@
     },
     "done": false
   },
+  "treasure2:recipes/sapphire_key": {
+    "criteria": {
+      "has_gem": "2020-03-22 12:53:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-02-26 21:59:38 +0100"
