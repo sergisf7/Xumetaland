@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "cfm:gardening": {
+    "criteria": {
+      "get_outdoor_furniture": "2020-03-22 22:57:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-02-29 15:52:30 +0100"
