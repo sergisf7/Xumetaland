@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
@@ -149,9 +155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2020-03-22 13:32:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-21 16:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-22 13:57:06 +0100"
     },
     "done": true
   },
@@ -164,6 +182,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
     },
     "done": true
   },
@@ -218,6 +242,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-03-20 23:00:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
     },
     "done": true
   },
@@ -341,6 +371,18 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-22 13:32:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-22 13:47:19 +0100"
     },
     "done": true
   },
@@ -512,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-03-21 16:51:57 +0100"
@@ -539,6 +587,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-03-21 16:24:57 +0100",
+      "birch_forest": "2020-03-22 13:47:20 +0100",
       "plains": "2020-03-20 21:09:18 +0100",
       "taiga": "2020-03-21 16:24:52 +0100"
     },
@@ -547,6 +596,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
     },
     "done": true
   },
@@ -730,6 +785,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2020-03-20 23:52:17 +0100"
@@ -743,6 +810,12 @@
       "creeper": "2020-03-20 23:35:53 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
   },
   "casinocraft:recipes/module_card_klondike": {
     "criteria": {
@@ -804,9 +877,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-03-21 16:55:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-22 14:16:03 +0100"
     },
     "done": true
   },
@@ -825,6 +910,12 @@
   "moarboats:recipes/modrecipes": {
     "criteria": {
       "has_the_boat_recipe": "2020-03-20 23:00:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-22 14:16:03 +0100"
     },
     "done": true
   },
