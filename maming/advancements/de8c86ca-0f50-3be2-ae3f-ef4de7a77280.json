@@ -41,21 +41,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_baccarat": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2020-03-21 16:40:30 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-21 16:40:30 +0100"
     },
     "done": true
   },
@@ -71,6 +77,18 @@
     },
     "done": true
   },
+  "treasure2:recipes/pilferers_lock_pick": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-21 16:40:30 +0100"
@@ -80,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/thiefs_lock_pick": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -101,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-03-20 21:38:50 +0100"
@@ -113,15 +143,39 @@
     },
     "done": true
   },
+  "treasure2:recipes/key_ring": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-21 16:41:19 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-22 01:40:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure_tool": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -215,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
@@ -230,6 +290,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-03-21 16:41:19 +0100"
@@ -239,6 +305,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-03-21 16:55:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -257,6 +329,24 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-21 16:35:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -314,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
@@ -344,13 +440,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "cfm:dingdong": {
     "criteria": {
-      "has_gravel": "2020-03-21 18:09:42 +0100"
+      "clicked_doorbell": "2020-03-22 00:38:15 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
     },
@@ -359,6 +461,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-03-21 16:35:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-21 18:09:42 +0100"
     },
     "done": true
   },
@@ -386,6 +494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-03-22 02:04:06 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_spider": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
@@ -410,6 +530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-03-21 16:24:57 +0100",
@@ -417,6 +543,12 @@
       "taiga": "2020-03-21 16:24:52 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -451,6 +583,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2020-03-21 16:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -520,9 +658,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-03-21 16:51:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -553,6 +703,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
@@ -660,9 +816,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-22 01:40:03 +0100"
+    },
+    "done": true
+  },
   "moarboats:recipes/modrecipes": {
     "criteria": {
       "has_the_boat_recipe": "2020-03-20 23:00:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-03-22 00:22:24 +0100"
     },
     "done": true
   },
