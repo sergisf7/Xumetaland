@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-22 20:02:15 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_pyramid": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
@@ -431,6 +437,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-22 20:12:07 +0100"
     },
     "done": true
   },
@@ -589,7 +601,9 @@
       "forest": "2020-03-21 16:24:57 +0100",
       "birch_forest": "2020-03-22 13:47:20 +0100",
       "plains": "2020-03-20 21:09:18 +0100",
-      "taiga": "2020-03-21 16:24:52 +0100"
+      "taiga": "2020-03-21 16:24:52 +0100",
+      "taiga_hills": "2020-03-22 20:03:42 +0100",
+      "river": "2020-03-22 19:33:02 +0100"
     },
     "done": false
   },
@@ -614,6 +628,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-22 20:12:07 +0100"
     },
     "done": true
   },
@@ -755,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-22 20:12:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
@@ -877,6 +903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-03-22 20:12:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-03-22 14:16:03 +0100"
@@ -934,6 +966,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-03-22 20:12:07 +0100"
     },
     "done": true
   },
