@@ -366,6 +366,7 @@
       "cookie": "2020-03-20 18:40:48 +0100",
       "cooked_chicken": "2020-03-21 00:50:43 +0100",
       "mushroom_stew": "2020-03-15 16:53:55 +0100",
+      "cooked_salmon": "2020-03-23 21:01:48 +0100",
       "carrot": "2020-03-12 19:38:48 +0100"
     },
     "done": false
@@ -736,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2020-03-23 20:56:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-03-12 16:38:09 +0100"
@@ -1055,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2020-03-23 20:56:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-03-16 17:30:23 +0100"
@@ -1226,6 +1239,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-23 19:36:20 +0100"
     },
     "done": true
   },
@@ -1904,6 +1923,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2020-03-12 20:02:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2020-03-23 20:56:38 +0100"
     },
     "done": true
   },

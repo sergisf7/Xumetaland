@@ -991,6 +991,7 @@
       "blaze": "2020-03-02 00:11:29 +0100",
       "zombie": "2020-02-29 15:52:55 +0100",
       "cave_spider": "2020-03-20 17:13:53 +0100",
+      "witch": "2020-03-23 20:05:13 +0100",
       "spider": "2020-03-02 19:09:30 +0100",
       "creeper": "2020-03-02 18:56:47 +0100",
       "enderman": "2020-03-04 23:27:06 +0100"
@@ -1219,6 +1220,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-23 20:44:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-03-08 13:58:13 +0100"
@@ -1360,6 +1367,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-03-04 23:34:40 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-23 20:44:24 +0100"
     },
     "done": true
   },

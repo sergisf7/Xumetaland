@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-03-23 21:38:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-03-15 01:03:34 +0100"
@@ -1587,6 +1593,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-03-23 22:27:11 +0100"
     },
     "done": true
   },
