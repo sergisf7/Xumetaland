@@ -287,9 +287,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_minesweeper": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-02-28 22:25:10 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_memory": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
     },
     "done": true
   },
@@ -874,6 +886,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_mysticsquare": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-03-01 16:35:21 +0100"
@@ -1063,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-03-23 18:06:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-02 22:57:39 +0100"
@@ -1105,6 +1129,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_sudoku": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-03-06 21:04:02 +0100"
@@ -1126,6 +1156,12 @@
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
       "has_brick": "2020-03-04 00:14:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-03-23 18:06:26 +0100"
     },
     "done": true
   },
@@ -1192,6 +1228,12 @@
   "casinocraft:recipes/module_stone_meanminos": {
     "criteria": {
       "has_redstone": "2020-03-20 16:23:33 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_halma": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
     },
     "done": true
   },
@@ -1591,6 +1633,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_craps": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-03-02 23:11:22 +0100"
@@ -1600,6 +1648,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2020-03-16 19:01:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-23 18:06:26 +0100"
     },
     "done": true
   },
@@ -1642,6 +1696,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2020-03-01 16:40:02 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_roulette": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
     },
     "done": true
   },
@@ -1780,6 +1840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-23 18:06:26 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-02-29 17:34:30 +0100"
@@ -1864,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-23 18:06:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-02 22:57:39 +0100"
@@ -1945,6 +2017,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-03-04 00:14:36 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_sicbo": {
+    "criteria": {
+      "has_clay": "2020-03-23 17:24:37 +0100"
     },
     "done": true
   },
