@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-03-24 19:01:01 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-03-20 21:09:18 +0100"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-23 17:16:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-24 19:00:56 +0100"
     },
     "done": true
   },
@@ -233,7 +245,8 @@
       "beef": "2020-03-21 18:10:41 +0100",
       "apple": "2020-03-20 22:57:02 +0100",
       "potato": "2020-03-24 18:28:47 +0100",
-      "cooked_cod": "2020-03-20 21:38:24 +0100"
+      "cooked_cod": "2020-03-20 21:38:24 +0100",
+      "bread": "2020-03-24 19:12:16 +0100"
     },
     "done": false
   },
@@ -324,6 +337,12 @@
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-22 00:38:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-03-24 19:01:01 +0100"
     },
     "done": true
   },
@@ -999,6 +1018,7 @@
     "criteria": {
       "forest": "2020-03-21 16:24:57 +0100",
       "birch_forest": "2020-03-22 03:33:11 +0100",
+      "swampland": "2020-03-24 19:22:03 +0100",
       "plains": "2020-03-20 21:09:18 +0100",
       "taiga": "2020-03-08 13:34:15 +0100",
       "taiga_hills": "2020-03-22 20:03:42 +0100",
