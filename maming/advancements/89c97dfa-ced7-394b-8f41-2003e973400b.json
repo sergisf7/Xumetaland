@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-24 22:14:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-24 21:49:25 +0100"
     },
     "done": true
   },
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2020-03-24 20:28:31 +0100"
+    },
+    "done": true
+  },
   "cfm:what_did_you_eat": {
     "criteria": {
       "player_fart": "2020-03-07 01:07:04 +0100"
@@ -356,6 +374,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-03-24 22:14:25 +0100"
     },
     "done": true
   },
@@ -577,6 +601,7 @@
       "magma_cube": "2020-03-11 23:25:51 +0100",
       "slime": "2020-03-09 22:55:49 +0100",
       "skeleton": "2020-03-07 16:56:37 +0100",
+      "husk": "2020-03-24 20:37:57 +0100",
       "blaze": "2020-03-11 23:20:47 +0100",
       "zombie": "2020-03-07 00:59:25 +0100",
       "cave_spider": "2020-03-11 22:30:36 +0100",
@@ -1070,8 +1095,11 @@
       "deep_ocean": "2020-03-11 23:47:08 +0100",
       "beaches": "2020-03-08 23:11:17 +0100",
       "extreme_hills_with_trees": "2020-03-10 22:30:59 +0100",
+      "desert_hills": "2020-03-24 20:28:08 +0100",
       "forest_hills": "2020-03-07 18:43:36 +0100",
       "plains": "2020-03-07 00:37:20 +0100",
+      "savanna": "2020-03-24 20:43:52 +0100",
+      "savanna_rock": "2020-03-24 20:39:36 +0100",
       "taiga": "2020-03-07 13:36:56 +0100",
       "redwood_taiga": "2020-03-20 00:00:54 +0100",
       "taiga_hills": "2020-03-16 17:34:15 +0100",
@@ -1081,6 +1109,7 @@
       "extreme_hills": "2020-03-10 00:21:11 +0100",
       "roofed_forest": "2020-03-19 23:22:36 +0100",
       "river": "2020-03-09 13:34:09 +0100",
+      "desert": "2020-03-24 20:26:23 +0100",
       "stone_beach": "2020-03-10 21:30:32 +0100"
     },
     "done": false
@@ -1280,6 +1309,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-24 22:14:25 +0100"
     },
     "done": true
   },
@@ -1808,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-03-24 22:14:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
@@ -1919,6 +1960,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-03-15 19:39:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2020-03-24 20:28:31 +0100"
     },
     "done": true
   },
@@ -2174,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-24 22:14:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-03-07 18:24:09 +0100"
@@ -2297,6 +2350,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-13 17:24:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2020-03-24 20:40:46 +0100"
     },
     "done": true
   },
@@ -2465,6 +2524,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-03-07 01:11:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2020-03-24 20:28:31 +0100"
     },
     "done": true
   },

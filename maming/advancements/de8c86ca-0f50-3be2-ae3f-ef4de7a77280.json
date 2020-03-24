@@ -774,6 +774,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2020-03-24 20:11:44 +0100"
+    },
+    "done": true
+  },
   "treasure2:recipes/key_ring": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
