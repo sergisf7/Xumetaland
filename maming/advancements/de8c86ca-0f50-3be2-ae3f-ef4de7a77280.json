@@ -197,9 +197,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_minesweeper": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_memory": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
     },
     "done": true
   },
@@ -218,6 +230,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-21 18:09:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2020-03-25 02:55:21 +0100"
     },
     "done": true
   },
@@ -331,6 +349,12 @@
   "casinocraft:recipes/module_card_blackjack": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2020-03-25 02:51:55 +0100"
     },
     "done": true
   },
@@ -538,6 +562,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_mysticsquare": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 00:54:37 +0100"
@@ -660,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2020-03-25 02:42:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-23 17:16:39 +0100"
@@ -684,6 +720,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_sudoku": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-03-22 14:16:03 +0100"
@@ -699,6 +741,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-23 17:16:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2020-03-25 02:56:07 +0100"
     },
     "done": true
   },
@@ -732,15 +780,39 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_halma": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2020-03-25 02:42:30 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_freecell": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2020-03-25 02:42:30 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_baccarat": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2020-03-25 02:42:30 +0100"
     },
     "done": true
   },
@@ -753,6 +825,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2020-03-25 02:42:30 +0100"
     },
     "done": true
   },
@@ -837,6 +915,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-03-11 23:18:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-25 02:14:22 +0100"
     },
     "done": true
   },
@@ -942,6 +1026,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_clay_craps": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-03-21 17:25:34 +0100"
@@ -981,6 +1071,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2020-03-09 22:55:49 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_roulette": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
     },
     "done": true
   },
@@ -1106,6 +1202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2020-03-25 02:42:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-03-20 23:00:00 +0100"
@@ -1115,6 +1217,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-03-22 20:12:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-25 02:53:24 +0100"
     },
     "done": true
   },
@@ -1136,9 +1244,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-03-25 02:43:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-23 17:16:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-03-25 02:56:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-03-25 02:42:30 +0100"
     },
     "done": true
   },
@@ -1157,6 +1283,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-21 18:22:38 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_clay_sicbo": {
+    "criteria": {
+      "has_clay": "2020-03-25 02:14:22 +0100"
     },
     "done": true
   },
@@ -1205,6 +1337,12 @@
   "moarboats:recipes/modrecipes": {
     "criteria": {
       "has_the_boat_recipe": "2020-03-20 23:00:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-03-25 02:55:21 +0100"
     },
     "done": true
   },
