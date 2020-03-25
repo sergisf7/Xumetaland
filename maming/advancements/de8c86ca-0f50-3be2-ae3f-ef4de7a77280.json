@@ -233,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-03-25 16:59:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-25 16:45:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2020-03-25 02:55:21 +0100"
@@ -264,7 +276,8 @@
       "apple": "2020-03-20 22:57:02 +0100",
       "potato": "2020-03-24 18:28:47 +0100",
       "cooked_cod": "2020-03-20 21:38:24 +0100",
-      "bread": "2020-03-24 19:12:16 +0100"
+      "bread": "2020-03-24 19:12:16 +0100",
+      "carrot": "2020-03-25 18:04:55 +0100"
     },
     "done": false
   },
@@ -301,6 +314,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-03-22 13:32:59 +0100"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2020-03-25 18:06:32 +0100"
     },
     "done": true
   },
@@ -445,6 +464,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-03-25 16:59:25 +0100"
     },
     "done": true
   },
@@ -630,6 +655,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2020-03-25 16:57:54 +0100",
       "zombie": "2020-03-20 21:41:10 +0100",
       "spider": "2020-03-21 16:35:37 +0100",
       "creeper": "2020-03-20 23:35:53 +0100"
@@ -1151,6 +1177,12 @@
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-03-20 23:52:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-03-25 18:04:07 +0100"
     },
     "done": true
   },

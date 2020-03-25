@@ -227,6 +227,14 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-03-25 17:13:26 +0100",
+      "diamond_chestplate": "2020-03-25 17:13:26 +0100",
+      "diamond_boots": "2020-03-25 17:13:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 20:33:50 +0100"

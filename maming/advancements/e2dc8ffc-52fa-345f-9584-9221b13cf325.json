@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-03-25 18:29:13 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_stone_2048": {
     "criteria": {
       "has_redstone": "2020-03-16 20:18:58 +0100"
@@ -1082,7 +1088,9 @@
       "savanna": "2020-03-15 16:22:48 +0100",
       "savanna_rock": "2020-03-15 16:24:51 +0100",
       "taiga": "2020-02-26 22:44:04 +0100",
+      "redwood_taiga": "2020-03-25 18:14:43 +0100",
       "taiga_hills": "2020-03-05 18:49:58 +0100",
+      "redwood_taiga_hills": "2020-03-25 18:15:04 +0100",
       "birch_forest_hills": "2020-03-11 22:20:54 +0100",
       "ocean": "2020-03-15 16:31:23 +0100",
       "extreme_hills": "2020-03-05 18:53:03 +0100",
