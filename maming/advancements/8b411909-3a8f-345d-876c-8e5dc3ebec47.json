@@ -2153,6 +2153,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_white": {
+    "criteria": {
+      "has_wool": "2020-03-25 23:52:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2020-02-28 22:25:10 +0100"
