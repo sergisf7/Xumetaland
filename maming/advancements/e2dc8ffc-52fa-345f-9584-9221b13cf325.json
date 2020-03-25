@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-03-25 23:01:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-02-26 21:49:52 +0100"
@@ -656,6 +662,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-02-26 20:37:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-03-25 23:01:55 +0100"
     },
     "done": true
   },
@@ -1203,6 +1215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-03-25 23:01:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2020-03-04 00:04:30 +0100"
@@ -1236,6 +1254,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2020-02-26 21:24:36 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/cardtable_base_brown": {
+    "criteria": {
+      "has_wool": "2020-03-25 23:01:55 +0100"
     },
     "done": true
   },
@@ -1607,6 +1631,12 @@
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-06 00:38:41 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2020-03-25 23:16:26 +0100"
     },
     "done": true
   },

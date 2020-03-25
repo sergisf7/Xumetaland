@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_black": {
+    "criteria": {
+      "has_wool": "2020-03-25 20:31:54 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_clay_minesweeper": {
     "criteria": {
       "has_clay": "2020-03-17 17:35:37 +0100"
