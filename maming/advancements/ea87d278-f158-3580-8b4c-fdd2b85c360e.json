@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-26 18:08:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-03-12 20:02:13 +0100"
@@ -364,6 +370,7 @@
       "bread": "2020-03-12 20:38:09 +0100",
       "rotten_flesh": "2020-03-12 19:52:00 +0100",
       "cookie": "2020-03-20 18:40:48 +0100",
+      "raw_cod": "2020-03-26 17:34:41 +0100",
       "cooked_chicken": "2020-03-21 00:50:43 +0100",
       "mushroom_stew": "2020-03-15 16:53:55 +0100",
       "cooked_salmon": "2020-03-23 21:01:48 +0100",
@@ -500,6 +507,12 @@
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-12 20:38:09 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2020-03-26 16:45:01 +0100"
     },
     "done": true
   },
@@ -1640,7 +1653,8 @@
       "birch_forest_hills": "2020-03-12 20:52:16 +0100",
       "ocean": "2020-03-16 13:56:15 +0100",
       "extreme_hills": "2020-03-20 17:11:38 +0100",
-      "river": "2020-03-12 20:49:37 +0100"
+      "river": "2020-03-12 20:49:37 +0100",
+      "stone_beach": "2020-03-26 18:05:03 +0100"
     },
     "done": false
   },
@@ -1764,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-03-26 18:08:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-03-12 21:13:50 +0100"
@@ -1791,6 +1811,12 @@
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2020-03-12 19:12:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2020-03-26 18:08:52 +0100"
     },
     "done": true
   },
