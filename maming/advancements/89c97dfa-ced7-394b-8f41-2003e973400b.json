@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_purification": {
+    "criteria": {
+      "coded_trigger": "2020-03-26 20:41:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-03-07 13:44:27 +0100"

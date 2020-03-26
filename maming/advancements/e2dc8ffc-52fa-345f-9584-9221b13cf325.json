@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-02-26 21:49:13 +0100"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-02-26 21:49:52 +0100"
@@ -161,9 +173,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-02 22:57:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-26 18:33:05 +0100"
     },
     "done": true
   },
@@ -188,6 +212,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-02-28 22:23:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
     },
     "done": true
   },
@@ -347,6 +377,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_purification": {
+    "criteria": {
+      "coded_trigger": "2020-03-26 19:00:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-02-27 22:51:48 +0100"
@@ -491,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-26 18:48:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-02-02 22:57:39 +0100"
@@ -548,6 +590,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2020-03-26 18:40:38 +0100"
     },
     "done": true
   },
@@ -683,6 +731,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:craft_t2_altar": {
     "criteria": {
       "altar_craft_t2_altar": "2020-03-21 00:44:14 +0100"
@@ -770,6 +830,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-02-26 21:59:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
     },
     "done": true
   },
@@ -965,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-03-22 16:40:50 +0100"
@@ -1106,6 +1178,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-03-06 21:10:25 +0100",
+      "mesa_rock": "2020-03-26 18:29:40 +0100",
       "birch_forest": "2020-02-27 22:11:16 +0100",
       "swampland": "2020-03-08 18:35:39 +0100",
       "deep_ocean": "2020-03-02 22:11:20 +0100",
@@ -1116,6 +1189,7 @@
       "forest_hills": "2020-03-14 23:16:50 +0100",
       "plains": "2020-03-08 13:58:13 +0100",
       "savanna": "2020-03-15 16:22:48 +0100",
+      "mesa_clear_rock": "2020-03-26 18:27:13 +0100",
       "savanna_rock": "2020-03-15 16:24:51 +0100",
       "taiga": "2020-02-26 22:44:04 +0100",
       "redwood_taiga": "2020-03-25 18:14:43 +0100",
@@ -1185,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-03-01 18:10:03 +0100"
@@ -1227,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
@@ -1260,6 +1346,12 @@
   "casinocraft:recipes/module_card_klondike": {
     "criteria": {
       "has_paper": "2020-03-16 15:38:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-26 18:48:42 +0100"
     },
     "done": true
   },
@@ -1314,6 +1406,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-08 10:06:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
     },
     "done": true
   },
@@ -1413,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-26 18:48:42 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_purple": {
     "criteria": {
       "has_quartz": "2020-03-17 17:27:21 +0100"
@@ -1458,6 +1562,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 21:50:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-26 18:48:42 +0100"
     },
     "done": true
   },
@@ -2270,6 +2380,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-02-26 21:59:48 +0100"
@@ -2396,6 +2518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-02-26 22:14:47 +0100"
@@ -2423,6 +2551,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-03-04 20:09:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
     },
     "done": true
   },
@@ -2534,9 +2668,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-03-26 18:48:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-01 18:22:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-03-26 18:29:28 +0100"
     },
     "done": true
   },
