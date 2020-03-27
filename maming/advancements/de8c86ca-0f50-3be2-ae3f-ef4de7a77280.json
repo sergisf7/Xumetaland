@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-23 17:16:39 +0100"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_columns": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
@@ -392,6 +404,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-03-26 17:40:32 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_snake": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-03-20 23:00:03 +0100"
@@ -695,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-03-21 16:40:30 +0100"
@@ -737,6 +767,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-03-22 14:16:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },
@@ -872,6 +908,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_2048": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_card_videopoker": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:53 +0100"
@@ -893,6 +935,12 @@
   "casinocraft:recipes/module_clay_halma": {
     "criteria": {
       "has_clay": "2020-03-25 02:14:22 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_meanminos": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },
@@ -1052,6 +1100,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/module_stone_sokoban": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-03-16 14:04:33 +0100"
@@ -1127,6 +1181,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-23 17:45:48 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/module_stone_tetris": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },
@@ -1220,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "casinocraft:recipes/cardtable_base_pink": {
     "criteria": {
       "has_wool": "2020-03-26 18:01:53 +0100"
@@ -1250,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-11 22:30:36 +0100"
@@ -1265,6 +1337,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2020-03-09 00:33:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },
@@ -1478,6 +1556,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-03-21 18:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-03-27 17:17:36 +0100"
     },
     "done": true
   },

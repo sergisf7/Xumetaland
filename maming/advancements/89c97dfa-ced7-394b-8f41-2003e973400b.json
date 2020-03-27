@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-03-27 20:39:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-07 23:04:36 +0100"
@@ -386,6 +392,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-03-09 13:37:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-03-27 20:39:59 +0100"
     },
     "done": true
   },
@@ -682,6 +694,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-03-15 00:58:50 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2020-03-27 16:33:58 +0100"
     },
     "done": true
   },
@@ -1677,6 +1695,12 @@
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2020-03-07 00:48:04 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2020-03-27 18:59:46 +0100"
     },
     "done": true
   },

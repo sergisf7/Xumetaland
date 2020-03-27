@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/wither_key": {
+    "criteria": {
+      "has_wither_root": "2020-03-27 19:41:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-03-14 15:12:34 +0100"
@@ -1811,6 +1817,12 @@
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2020-03-12 19:12:07 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:find_weak_constellation": {
+    "criteria": {
+      "weak_constellation_discovered": "2020-03-27 19:16:26 +0100"
     },
     "done": true
   },
