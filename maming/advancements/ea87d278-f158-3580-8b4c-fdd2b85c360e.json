@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_lightblue": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-12 21:13:50 +0100"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_blue": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-12 20:19:22 +0100"
@@ -44,6 +56,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 20:38:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -110,6 +128,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_purple": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -227,6 +251,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_white": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-12 20:18:45 +0100"
@@ -239,6 +269,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_green": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2020-03-12 20:38:19 +0100"
@@ -248,6 +284,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_gray": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -308,6 +350,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-03-12 20:50:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -564,9 +612,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_lime": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -633,6 +693,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-03-12 20:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -792,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-28 19:34:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2020-03-12 20:01:27 +0100"
@@ -908,9 +980,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-03-28 17:29:43 +0100",
+      "wither_skeleton": "2020-03-28 17:08:42 +0100",
       "zombie_villager": "2020-03-13 13:57:09 +0100",
+      "magma_cube": "2020-03-28 16:56:40 +0100",
       "slime": "2020-03-16 18:28:41 +0100",
       "skeleton": "2020-03-12 19:49:49 +0100",
+      "blaze": "2020-03-28 17:06:01 +0100",
       "zombie": "2020-03-12 16:45:01 +0100",
       "witch": "2020-03-20 19:15:27 +0100",
       "spider": "2020-03-13 13:53:49 +0100",
@@ -1009,6 +1085,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_magenta": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-03-20 15:45:14 +0100"
@@ -1027,6 +1109,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_yellow": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-03-12 20:22:46 +0100"
@@ -1042,6 +1130,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-03-12 20:38:19 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_red": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -1147,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-28 17:06:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-03-14 15:12:34 +0100"
@@ -1225,15 +1325,33 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_silver": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-03-28 17:04:19 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2020-03-13 14:01:50 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_pink": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -1537,6 +1655,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_cyan": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 20:38:09 +0100"
@@ -1570,6 +1694,30 @@
   "casinocraft:recipes/module_card_rougeetnoir": {
     "criteria": {
       "has_paper": "2020-03-20 23:24:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-28 19:34:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2020-03-28 16:57:20 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_black": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-03-28 17:06:10 +0100"
     },
     "done": true
   },
@@ -1627,9 +1775,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-03-28 17:06:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-03-12 20:27:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_orange": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },
@@ -1742,6 +1908,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_brown": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-03-12 16:42:31 +0100"
@@ -1787,6 +1959,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-03-26 18:08:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-03-28 16:53:45 +0100"
     },
     "done": true
   },

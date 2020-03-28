@@ -626,6 +626,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-03-28 17:29:03 +0100",
       "wither_skeleton": "2020-03-11 23:42:18 +0100",
       "zombie_villager": "2020-03-07 17:17:23 +0100",
       "magma_cube": "2020-03-11 23:25:51 +0100",
