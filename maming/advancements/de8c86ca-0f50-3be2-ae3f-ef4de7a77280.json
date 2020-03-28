@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-03-28 00:00:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
@@ -759,6 +765,7 @@
     "criteria": {
       "skeleton": "2020-03-25 16:57:54 +0100",
       "zombie": "2020-03-20 21:41:10 +0100",
+      "silverfish": "2020-03-28 00:55:48 +0100",
       "spider": "2020-03-21 16:35:37 +0100",
       "creeper": "2020-03-20 23:35:53 +0100"
     },
@@ -1374,7 +1381,9 @@
       "plains": "2020-03-20 21:09:18 +0100",
       "taiga": "2020-03-08 13:34:15 +0100",
       "taiga_hills": "2020-03-22 20:03:42 +0100",
+      "birch_forest_hills": "2020-03-28 00:03:28 +0100",
       "ocean": "2020-03-26 16:50:52 +0100",
+      "extreme_hills": "2020-03-28 00:31:26 +0100",
       "river": "2020-03-22 19:33:02 +0100"
     },
     "done": false
@@ -1493,6 +1502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-03-28 01:04:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-03-20 23:00:00 +0100"
@@ -1586,6 +1601,12 @@
   "railcraft:tracks/root": {
     "criteria": {
       "get_sand": "2020-03-23 17:11:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-03-28 01:04:47 +0100"
     },
     "done": true
   },
