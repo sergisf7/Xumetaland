@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2020-03-29 00:52:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-03-13 16:32:52 +0100"
@@ -2375,6 +2381,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-03-08 13:34:07 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2020-03-29 00:52:37 +0100"
     },
     "done": true
   },

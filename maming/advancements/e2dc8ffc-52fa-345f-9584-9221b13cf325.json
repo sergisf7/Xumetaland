@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2020-03-29 00:52:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-03-02 20:15:38 +0100"
@@ -1750,6 +1756,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-03-29 00:04:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-02-27 22:51:48 +0100"
@@ -2443,6 +2455,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-02-08 16:20:25 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2020-03-29 00:52:49 +0100"
     },
     "done": true
   },
