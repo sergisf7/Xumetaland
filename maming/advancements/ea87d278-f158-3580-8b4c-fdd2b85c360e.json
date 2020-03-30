@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2020-03-30 00:39:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-03-13 13:24:45 +0100"
@@ -1235,6 +1241,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-29 23:21:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-03-12 21:13:50 +0100"
@@ -1376,6 +1388,12 @@
   "casinocraft:recipes/arcade_base_pink": {
     "criteria": {
       "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2020-03-29 23:21:22 +0200"
     },
     "done": true
   },
@@ -1694,6 +1712,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-03-16 17:30:23 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2020-03-30 00:39:11 +0200"
     },
     "done": true
   },
