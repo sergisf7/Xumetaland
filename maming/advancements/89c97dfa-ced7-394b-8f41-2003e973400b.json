@@ -1058,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-03-30 20:47:31 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_black": {
     "criteria": {
       "has_quartz": "2020-03-22 15:32:40 +0100"
@@ -1313,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-03-30 20:47:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-03-09 20:32:35 +0100"
@@ -1460,6 +1472,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-03-11 23:16:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-03-30 20:47:31 +0200"
     },
     "done": true
   },
