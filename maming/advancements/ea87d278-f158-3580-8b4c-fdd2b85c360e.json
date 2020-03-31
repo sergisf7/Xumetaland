@@ -684,6 +684,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2020-03-31 18:10:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-12 21:48:34 +0100"
