@@ -643,6 +643,7 @@
       "zombie": "2020-03-07 00:59:25 +0100",
       "cave_spider": "2020-03-11 22:30:36 +0100",
       "witch": "2020-03-09 15:29:08 +0100",
+      "guardian": "2020-03-31 00:59:24 +0200",
       "spider": "2020-03-07 01:02:13 +0100",
       "ghast": "2020-03-22 15:33:47 +0100",
       "creeper": "2020-03-09 14:54:48 +0100",
@@ -1795,6 +1796,12 @@
       "bred_cow": "2020-03-16 17:55:06 +0100"
     },
     "done": false
+  },
+  "treasure2:recipes/wither_key": {
+    "criteria": {
+      "has_tool": "2020-03-31 03:10:45 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
