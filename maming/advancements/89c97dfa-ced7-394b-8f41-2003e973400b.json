@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-01 01:20:00 +0200"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-03-07 00:37:21 +0100"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-03-09 13:37:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-04-01 01:36:08 +0200"
     },
     "done": true
   },
@@ -633,6 +645,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2020-03-28 17:29:03 +0100",
+      "stray": "2020-04-01 00:17:39 +0200",
       "wither_skeleton": "2020-03-11 23:42:18 +0100",
       "zombie_villager": "2020-03-07 17:17:23 +0100",
       "magma_cube": "2020-03-11 23:25:51 +0100",
@@ -702,6 +715,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-03-15 00:58:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-01 01:36:08 +0200"
     },
     "done": true
   },
@@ -840,6 +859,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-03-20 01:21:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-04-01 00:29:58 +0200"
     },
     "done": true
   },
@@ -984,6 +1009,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-07 01:00:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-04-01 01:36:08 +0200"
     },
     "done": true
   },
@@ -1139,6 +1170,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2020-04-01 00:15:37 +0200",
+      "frozen_river": "2020-04-01 00:15:45 +0200",
       "forest": "2020-03-13 16:27:53 +0100",
       "birch_forest": "2020-03-08 19:44:52 +0100",
       "swampland": "2020-03-09 20:29:39 +0100",
@@ -1150,14 +1183,17 @@
       "plains": "2020-03-07 00:37:20 +0100",
       "savanna": "2020-03-24 20:43:52 +0100",
       "savanna_rock": "2020-03-24 20:39:36 +0100",
+      "ice_mountains": "2020-04-01 00:16:51 +0200",
       "taiga": "2020-03-07 13:36:56 +0100",
       "redwood_taiga": "2020-03-20 00:00:54 +0100",
       "taiga_hills": "2020-03-16 17:34:15 +0100",
       "redwood_taiga_hills": "2020-03-19 23:29:06 +0100",
       "birch_forest_hills": "2020-03-09 23:41:00 +0100",
+      "taiga_cold": "2020-04-01 00:11:16 +0200",
       "ocean": "2020-03-09 13:36:15 +0100",
       "extreme_hills": "2020-03-10 00:21:11 +0100",
       "roofed_forest": "2020-03-19 23:22:36 +0100",
+      "cold_beach": "2020-04-01 00:10:09 +0200",
       "river": "2020-03-09 13:34:09 +0100",
       "desert": "2020-03-24 20:26:23 +0100",
       "stone_beach": "2020-03-10 21:30:32 +0100"
@@ -1416,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-04-01 00:30:00 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_blue": {
     "criteria": {
       "has_quartz": "2020-03-22 15:32:40 +0100"
@@ -1479,6 +1521,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-03-30 20:47:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-04-01 00:30:00 +0200"
     },
     "done": true
   },
@@ -2013,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-01 01:36:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-03-11 23:16:43 +0100"
@@ -2337,6 +2391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-04-01 01:20:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-03-07 01:11:11 +0100"
@@ -2646,6 +2706,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:19:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-04-01 01:36:08 +0200"
     },
     "done": true
   },
