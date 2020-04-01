@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-04-01 19:46:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-03-08 13:49:25 +0100"
@@ -1329,6 +1335,12 @@
   "casinocraft:recipes/module_card_klondike": {
     "criteria": {
       "has_paper": "2020-03-16 14:04:33 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:find_weak_constellation": {
+    "criteria": {
+      "weak_constellation_discovered": "2020-04-01 19:13:13 +0200"
     },
     "done": true
   },
@@ -1467,6 +1479,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 13:44:27 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_crystal": {
+    "criteria": {
+      "attune_crystal_major_weak": "2020-04-01 19:15:45 +0200"
     },
     "done": true
   },
@@ -1884,6 +1902,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-01 18:42:20 +0200"
     },
     "done": true
   },

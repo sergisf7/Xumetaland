@@ -1888,6 +1888,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2020-04-01 18:53:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-02-27 21:45:37 +0100"
