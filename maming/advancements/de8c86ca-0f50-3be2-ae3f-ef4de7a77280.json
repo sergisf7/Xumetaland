@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-04-02 16:44:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-03-21 16:25:39 +0100"
@@ -477,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-04-02 16:44:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 00:22:24 +0100"
@@ -762,6 +774,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-21 18:09:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-04-02 16:44:24 +0200"
     },
     "done": true
   },
@@ -1437,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-04-02 16:44:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-03-27 17:17:36 +0100"
@@ -1571,6 +1595,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2020-03-25 02:42:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-04-02 16:44:24 +0200"
     },
     "done": true
   },
