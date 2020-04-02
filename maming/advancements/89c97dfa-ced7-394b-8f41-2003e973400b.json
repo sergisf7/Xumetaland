@@ -2001,6 +2001,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2020-04-02 19:51:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2020-03-24 22:14:25 +0100"

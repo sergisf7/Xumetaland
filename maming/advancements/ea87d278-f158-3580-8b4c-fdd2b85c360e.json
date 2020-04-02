@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2020-04-02 19:34:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-03-12 19:48:19 +0100"
@@ -1669,6 +1675,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2020-04-02 18:42:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-13 13:24:45 +0100"
@@ -1738,6 +1750,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-03-12 19:49:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-02 18:23:13 +0200"
     },
     "done": true
   },
