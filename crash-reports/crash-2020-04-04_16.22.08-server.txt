@@ -1,0 +1,146 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ForgelinPlugin (Forgelin-1.8.3.jar)
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  CreativePatchingLoader (CreativeCore_v1.9.90_mc1.12.2.jar)
+  FutureMC (future-mc-0.1.13.jar)
+  AstralCore (astralsorcery-1.12.2-1.10.22.jar)
+  MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't be sad, have a hug! <3
+
+Time: 4/04/20 16:22
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+
+-- Affected level --
+Details:
+	Level name: maming
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 432 Drop: 177
+	Level seed: 4481848279152631940
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-2415,64,5997), Chunk: (at 1,4,13 in -151,374; contains blocks -2416,0,5984 to -2401,255,5999), Region: (-5,11; contains chunks -160,352 to -129,383, blocks -2560,0,5632 to -2049,255,6143)
+	Level time: 26447102 game time, 216431 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 100786 (now: false), thunder time: 79881 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 682731800 bytes (651 MB) / 2467299328 bytes (2353 MB) up to 3791650816 bytes (3616 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 52 mods loaded, 52 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                | Version               | Source                                         | Signature                                |
+	|:------ |:----------------- |:--------------------- |:---------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2                | minecraft.jar                                  | None                                     |
+	| LCHIJA | mcp               | 9.42                  | minecraft.jar                                  | None                                     |
+	| LCHIJA | FML               | 8.0.99.99             | mods.jar                                       | None                                     |
+	| LCHIJA | forge             | 14.23.5.2847          | mods.jar                                       | None                                     |
+	| LCHIJA | creativecoredummy | 1.0.0                 | minecraft.jar                                  | None                                     |
+	| LCHIJA | futuremccore      | 0.1.12                | minecraft.jar                                  | None                                     |
+	| LCHIJA | securitycraft     | v1.8.17               | [1.12.2]+SecurityCraft+v1.8.17.jar             | None                                     |
+	| LCHIJA | animalium         | 0.3.7                 | Animalium-0.3.7.jar                            | None                                     |
+	| LCHIJA | jei               | 4.15.0.268            | jei_1.12.2-4.15.0.268.jar                      | None                                     |
+	| LCHIJA | appleskin         | 1.0.9                 | AppleSkin-mc1.12-1.0.9.jar                     | None                                     |
+	| LCHIJA | baubles           | 1.5.2                 | Baubles-1.12-1.5.2.jar                         | None                                     |
+	| LCHIJA | astralsorcery     | 1.10.22               | astralsorcery-1.12.2-1.10.22.jar               | a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0 |
+	| LCHIJA | zawa              | 1.12.2-1.6.0          | zawa+-+1.6.0+(1.12.2).jar                      | 3ee471ded1bba54aa82f4f5ca5ca82dd67b8ef42 |
+	| LCHIJA | bookworm          | 1.12.2-2.2.0          | bookworm+-+2.2.0+(1.12.2).jar                  | None                                     |
+	| LCHIJA | casinocraft       | v06                   | CasinoCraft_1.12.2_v06 (1).jar                 | None                                     |
+	| LCHIJA | chesttransporter  | 2.8.8                 | ChestTransporter-1.12.2-2.8.8.jar              | None                                     |
+	| LCHIJA | chisel            | MC1.12.2-0.2.1.35     | Chisel-MC1.12.2-0.2.1.35.jar                   | None                                     |
+	| LCHIJA | chiselsandbits    | 14.33                 | chiselsandbits-14.33.jar                       | None                                     |
+	| LCHIJA | morpheus          | 1.12.2-3.5.106        | Morpheus-1.12.2-3.5.106.jar                    | None                                     |
+	| LCHIJA | comforts          | 1.4.1.2               | comforts-1.12.2-1.4.1.2.jar                    | 5d5b8aee896a4f5ea3f3114784742662a67ad32f |
+	| LCHIJA | opframe           | 1.4.0                 | OnlinePicFrame_v1.4.33_mc1.12.2.jar            | None                                     |
+	| LCHIJA | playerrevive      | 1.0                   | PlayerRevive_v1.2.28_mc1.12.2.jar              | None                                     |
+	| LCHIJA | creativecore      | 1.9.9                 | CreativeCore_v1.9.90_mc1.12.2.jar              | None                                     |
+	| LCHIJA | props             | 2.6.3                 | Decocraft-2.6.3_1.12.2.jar                     | None                                     |
+	| LCHIJA | elevatorid        | 1.3.12                | ElevatorMod-1.12.2-1.3.12.jar                  | None                                     |
+	| LCHIJA | extrautils2       | 1.0                   | extrautils2-1.12-1.9.9.jar                     | None                                     |
+	| LCHIJA | fencejumper       | 1.0.5                 | fencejumper-1.12-1.0.5.jar                     | None                                     |
+	| LCHIJA | foamflower        | 1.12.2-1.0.0.0-beta1  | foamflower-1.12.2-1.0.0.0-beta1.jar            | None                                     |
+	| LCHIJA | forgelin          | 1.8.3                 | Forgelin-1.8.3.jar                             | None                                     |
+	| LCHIJA | cfm               | 6.3.1                 | furniture-6.3.1-1.12.2.jar                     | None                                     |
+	| LCHIJA | minecraftfuture   | 0.1.13                | future-mc-0.1.13.jar                           | None                                     |
+	| LCHIJA | gottschcore       | 1.10.0                | GottschCore-mc1.12.2-f14.23.5.2768-v1.10.0.jar | None                                     |
+	| LCHIJA | waila             | 1.8.26                | Hwyla-1.8.26-B41_1.12.2.jar                    | None                                     |
+	| LCHIJA | infernalmobs      | 1.7.6                 | InfernalMobs-1.12.2.jar                        | None                                     |
+	| LCHIJA | journeymap        | 1.12.2-5.5.7          | journeymap-1.12.2-5.5.7.jar                    | None                                     |
+	| LCHIJA | leatherworks      | 1.78.0                | LeatherWorks-1.12-1.78.0.42.jar                | None                                     |
+	| LCHIJA | malisiscore       | 1.12.2-6.5.1-SNAPSHOT | malisiscore-1.12.2-6.5.1.jar                   | None                                     |
+	| LCHIJA | malisisdoors      | 1.12.2-7.3.0          | malisisdoors-1.12.2-7.3.0.jar                  | None                                     |
+	| LCHIJA | mca               | 6.1.0                 | MCA-1.12.2-6.1.0-universal.jar                 | None                                     |
+	| LCHIJA | moarboats         | 4.1.2.1               | moarboats-1.12.2-4.1.2.1.jar                   | None                                     |
+	| LCHIJA | moreplayermodels  | 1.12.2                | MorePlayerModels_1.12.2-(05Dec19).jar          | None                                     |
+	| LCHIJA | llibrary          | 1.7.19                | llibrary-1.7.19-1.12.2.jar                     | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LCHIJA | mowziesmobs       | 1.5.4                 | mowziesmobs-1.5.4.jar                          | None                                     |
+	| LCHIJA | railcraft         | 12.0.0                | railcraft-12.0.0.jar                           | a0c255ac501b2749537d5824bb0f0588bf0320fa |
+	| LCHIJA | reap              | 1.5.1                 | reap-1.5.1.jar                                 | None                                     |
+	| LCHIJA | roost             | 2.0.10                | roost-1.12.2-2.0.10 (1).jar                    | None                                     |
+	| LCHIJA | spartanshields    | 1.5.4                 | SpartanShields-1.12.2-1.5.4.jar                | None                                     |
+	| LCHIJA | tombstone         | 3.6.3                 | tombstone-3.6.3-1.12.2.jar                     | None                                     |
+	| LCHIJA | traverse          | 1.6.0                 | Traverse-1.12.2-1.6.0-69.jar                   | None                                     |
+	| LCHIJA | treasure2         | 1.8.0                 | Treasure2-mc1.12.2-f14.23.5.2768-v1.8.0.jar    | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2                | VariedCommodities_1.12.2(21nov19).jar          | None                                     |
+	| LCHIJA | vending           | 1.12.2-3.0.1.2        | vending-1.12.2-3.0.1.2.jar                     | None                                     |
+
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.8.3.jar)
+  
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+CreativePatchingLoader (CreativeCore_v1.9.90_mc1.12.2.jar)
+  
+FutureMC (future-mc-0.1.13.jar)
+  thedarkcolour.futuremc.asm.CoreTransformer
+AstralCore (astralsorcery-1.12.2-1.10.22.jar)
+  
+MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 8; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
