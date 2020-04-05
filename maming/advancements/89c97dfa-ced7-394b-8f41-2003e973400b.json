@@ -1024,6 +1024,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2020-04-05 03:39:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-03-07 18:43:27 +0100"
