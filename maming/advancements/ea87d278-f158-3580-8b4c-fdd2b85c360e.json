@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t4_altar": {
+    "criteria": {
+      "altar_craft_t4_altar": "2020-04-05 22:47:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-03-12 20:38:09 +0100"
@@ -543,6 +549,7 @@
       "skeleton": "2020-03-12 19:49:49 +0100",
       "blaze": "2020-03-28 17:06:01 +0100",
       "zombie": "2020-03-12 16:45:01 +0100",
+      "cave_spider": "2020-04-05 21:37:51 +0200",
       "witch": "2020-03-20 19:15:27 +0100",
       "spider": "2020-03-13 13:53:49 +0100",
       "ghast": "2020-04-04 20:33:03 +0200",
@@ -1430,6 +1437,12 @@
     },
     "done": false
   },
+  "treasure2:recipes/sapphire_key": {
+    "criteria": {
+      "has_gem": "2020-04-05 22:14:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-03-12 20:18:34 +0100"
@@ -1979,6 +1992,12 @@
   "casinocraft:recipes/arcade_base_pink": {
     "criteria": {
       "has_quartz": "2020-03-28 16:53:45 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:celestial_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2020-04-05 22:40:48 +0200"
     },
     "done": true
   },
