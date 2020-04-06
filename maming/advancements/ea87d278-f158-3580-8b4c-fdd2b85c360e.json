@@ -550,7 +550,9 @@
       "blaze": "2020-03-28 17:06:01 +0100",
       "zombie": "2020-03-12 16:45:01 +0100",
       "cave_spider": "2020-04-05 21:37:51 +0200",
+      "silverfish": "2020-04-06 20:27:30 +0200",
       "witch": "2020-03-20 19:15:27 +0100",
+      "guardian": "2020-04-06 20:42:31 +0200",
       "spider": "2020-03-13 13:53:49 +0100",
       "ghast": "2020-04-04 20:33:03 +0200",
       "creeper": "2020-03-15 16:13:46 +0100",
@@ -942,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:47:40 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_black": {
     "criteria": {
       "has_quartz": "2020-03-28 16:53:45 +0100"
@@ -1165,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:47:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-03-21 15:44:20 +0100"
@@ -1261,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-04-06 15:47:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-03-12 21:13:50 +0100"
@@ -1282,6 +1302,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-03-12 19:49:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:47:40 +0200"
     },
     "done": true
   },
@@ -1421,12 +1447,14 @@
     "criteria": {
       "cooked_porkchop": "2020-03-15 17:16:54 +0100",
       "chicken": "2020-03-20 19:10:25 +0100",
+      "cooked_mutton": "2020-04-06 20:09:49 +0200",
       "cooked_beef": "2020-03-14 19:38:48 +0100",
       "baked_potato": "2020-03-12 19:46:07 +0100",
       "apple": "2020-04-01 00:05:34 +0200",
       "potato": "2020-03-12 19:11:42 +0100",
       "cooked_cod": "2020-03-15 19:35:31 +0100",
       "bread": "2020-03-12 20:38:09 +0100",
+      "golden_apple": "2020-04-06 20:07:15 +0200",
       "rotten_flesh": "2020-03-12 19:52:00 +0100",
       "cookie": "2020-03-20 18:40:48 +0100",
       "raw_cod": "2020-03-26 17:34:41 +0100",

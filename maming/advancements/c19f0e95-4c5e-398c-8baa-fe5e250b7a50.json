@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-04-06 19:07:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-02-27 22:27:09 +0100"
@@ -334,6 +340,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-03-07 20:33:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-06 19:07:30 +0200"
     },
     "done": true
   },
@@ -586,12 +598,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-03-09 18:21:46 +0100",
+      "slime": "2020-04-06 16:06:41 +0200",
       "skeleton": "2020-02-27 22:59:52 +0100",
       "blaze": "2020-03-11 23:33:17 +0100",
       "zombie": "2020-02-27 22:29:10 +0100",
       "silverfish": "2020-03-13 12:52:01 +0100",
       "cave_spider": "2020-04-01 12:56:53 +0200",
       "witch": "2020-03-07 22:53:47 +0100",
+      "guardian": "2020-04-06 20:42:34 +0200",
       "spider": "2020-03-09 21:31:38 +0100",
       "creeper": "2020-03-08 00:58:34 +0100",
       "enderman": "2020-03-11 23:18:11 +0100"
@@ -1000,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:43:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-02-27 22:28:07 +0100"
@@ -1250,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:43:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:28:41 +0100"
@@ -1367,6 +1393,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-03-11 23:24:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:43:41 +0200"
     },
     "done": true
   },
@@ -2366,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-04-06 19:07:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:57:23 +0100"
@@ -2381,6 +2419,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-02 15:29:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2020-04-06 19:07:02 +0200"
     },
     "done": true
   },

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-04-06 20:00:52 +0200"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-02-26 21:25:10 +0100"
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-06 19:07:30 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_stone_columns": {
     "criteria": {
       "has_redstone": "2020-03-16 20:18:58 +0100"
@@ -681,6 +693,7 @@
       "husk": "2020-03-15 16:28:57 +0100",
       "blaze": "2020-03-10 22:52:01 +0100",
       "zombie": "2020-02-15 14:03:42 +0100",
+      "silverfish": "2020-04-06 20:27:31 +0200",
       "witch": "2020-03-13 00:36:57 +0100",
       "spider": "2020-02-27 23:05:39 +0100",
       "ghast": "2020-03-02 22:57:39 +0100",
@@ -1121,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:44:09 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/arcade_base_black": {
     "criteria": {
       "has_quartz": "2020-03-17 17:27:21 +0100"
@@ -1403,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:44:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-03-04 00:04:30 +0100"
@@ -1556,6 +1581,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-03-02 22:32:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-06 20:44:09 +0200"
     },
     "done": true
   },

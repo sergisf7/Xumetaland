@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-04-06 16:28:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-06 16:00:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
@@ -338,6 +350,12 @@
   "tombstone:tutorial/find_ancient_tablet": {
     "criteria": {
       "has_ancient_tablet_of_recall": "2020-03-29 00:52:37 +0100"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2020-04-06 19:06:33 +0200"
     },
     "done": true
   },
@@ -648,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2020-04-06 16:00:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2020-03-28 17:29:03 +0100",
@@ -661,6 +685,7 @@
       "blaze": "2020-03-11 23:20:47 +0100",
       "zombie": "2020-03-07 00:59:25 +0100",
       "cave_spider": "2020-03-11 22:30:36 +0100",
+      "silverfish": "2020-04-06 20:28:17 +0200",
       "witch": "2020-03-09 15:29:08 +0100",
       "guardian": "2020-03-31 00:59:24 +0200",
       "spider": "2020-03-07 01:02:13 +0100",
@@ -2613,6 +2638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-04-06 16:28:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2020-03-11 22:53:55 +0100"
@@ -2682,6 +2713,18 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2020-04-06 19:33:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-04-06 16:28:16 +0200"
     },
     "done": true
   },
