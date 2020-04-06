@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-04-06 23:34:09 +0200"
+    },
+    "done": true
+  },
   "casinocraft:recipes/module_stone_snake": {
     "criteria": {
       "has_redstone": "2020-03-20 16:23:33 +0100"
