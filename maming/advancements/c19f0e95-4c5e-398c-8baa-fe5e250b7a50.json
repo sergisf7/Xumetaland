@@ -2320,6 +2320,12 @@
     },
     "done": true
   },
+  "cfm:copy_item": {
+    "criteria": {
+      "printer_copy": "2020-04-07 00:37:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
@@ -2407,6 +2413,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:57:23 +0100"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2020-04-07 00:28:18 +0200"
     },
     "done": true
   },
