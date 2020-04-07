@@ -982,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-07 19:23:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-03-13 19:07:30 +0100"
@@ -1648,6 +1654,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-03-13 01:01:46 +0100",
+      "cooked_mutton": "2020-04-07 19:05:09 +0200",
       "cooked_beef": "2020-02-27 15:52:16 +0100",
       "baked_potato": "2020-02-26 14:33:44 +0100",
       "apple": "2020-02-29 15:41:58 +0100",
@@ -1655,6 +1662,7 @@
       "raw_salmon": "2020-03-16 01:02:19 +0100",
       "pufferfish": "2020-03-13 17:21:57 +0100",
       "bread": "2020-03-15 17:14:43 +0100",
+      "golden_apple": "2020-04-07 18:03:43 +0200",
       "rotten_flesh": "2020-03-09 19:38:32 +0100",
       "cookie": "2020-03-12 01:45:22 +0100",
       "raw_cod": "2020-03-18 02:54:02 +0100",

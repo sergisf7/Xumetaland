@@ -1618,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-04-07 16:58:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-03-08 16:28:13 +0100"

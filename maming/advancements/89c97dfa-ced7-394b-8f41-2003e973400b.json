@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-04-07 16:39:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2020-04-01 01:20:00 +0200"
@@ -1022,6 +1028,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-03-23 21:38:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-07 18:45:49 +0200"
     },
     "done": true
   },

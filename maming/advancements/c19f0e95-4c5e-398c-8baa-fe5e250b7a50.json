@@ -193,6 +193,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_gray": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
@@ -678,6 +684,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_yellow": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2020-02-27 22:31:05 +0100"
@@ -777,6 +789,12 @@
   "treasure2:recipes/thiefs_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_silver": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -996,6 +1014,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_cyan": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 22:28:07 +0100"
@@ -1017,6 +1041,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2020-04-06 20:43:41 +0200"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_black": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1065,6 +1095,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-03-07 22:54:13 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_orange": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1348,9 +1384,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_lightblue": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:57:23 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_blue": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1387,6 +1435,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2020-03-07 00:58:41 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_purple": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1450,9 +1504,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_white": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-02 15:29:10 +0200"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_green": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1646,6 +1712,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_gray": {
+    "criteria": {
+      "has_wool": "2020-04-07 16:39:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-07 22:40:50 +0100"
@@ -1655,6 +1727,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-03-15 14:43:54 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_lime": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -1936,6 +2014,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_magenta": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-02-27 22:28:07 +0100"
@@ -1963,6 +2047,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-02-27 22:28:07 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_red": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -2095,6 +2185,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-03-11 23:31:19 +0100"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/arcade_base_pink": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
     },
     "done": true
   },
@@ -2362,6 +2458,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/arcade_base_brown": {
+    "criteria": {
+      "has_quartz": "2020-04-07 16:44:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-03-07 00:49:23 +0100"
@@ -2509,6 +2611,12 @@
   "moarboats:recipes/modrecipes": {
     "criteria": {
       "has_the_boat_recipe": "2020-02-26 21:30:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2020-04-07 16:24:19 +0200"
     },
     "done": true
   },

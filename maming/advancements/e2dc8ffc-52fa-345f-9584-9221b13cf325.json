@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_black": {
+    "criteria": {
+      "has_wool": "2020-04-07 18:00:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2020-03-02 23:11:20 +0100"
@@ -539,6 +545,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_red": {
+    "criteria": {
+      "has_wool": "2020-04-07 18:00:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-04-06 23:31:53 +0200"
@@ -617,6 +629,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2020-04-07 17:11:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-02-26 21:49:52 +0100"
@@ -626,6 +644,12 @@
   "tombstone:tutorial/create_magic_scroll": {
     "criteria": {
       "has_ingredient": "2020-03-26 18:40:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-04-07 18:00:49 +0200"
     },
     "done": true
   },
@@ -906,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-07 17:07:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-03-01 19:50:34 +0100"
@@ -927,6 +957,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-03 23:09:34 +0100"
+    },
+    "done": true
+  },
+  "cfm:privacy": {
+    "criteria": {
+      "get_blinds_or_curtains": "2020-04-07 17:09:51 +0200"
     },
     "done": true
   },
@@ -1050,9 +1086,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-04-07 18:00:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-03-11 23:21:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-07 18:00:49 +0200"
     },
     "done": true
   },
@@ -1750,9 +1798,11 @@
       "cooked_cod": "2020-03-10 22:51:47 +0100",
       "raw_salmon": "2020-03-21 00:03:55 +0100",
       "bread": "2020-03-11 22:26:58 +0100",
+      "golden_apple": "2020-04-07 18:23:29 +0200",
       "cookie": "2020-03-20 15:27:26 +0100",
       "rotten_flesh": "2020-04-02 14:41:39 +0200",
       "cooked_chicken": "2020-03-20 22:21:57 +0100",
+      "enchanted_golden_apple": "2020-04-07 18:03:52 +0200",
       "cooked_salmon": "2020-03-11 23:16:43 +0100",
       "carrot": "2020-02-15 01:35:53 +0100"
     },
@@ -2068,6 +2118,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2020-02-08 16:00:18 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2020-04-07 17:11:47 +0200"
     },
     "done": true
   },
@@ -2431,6 +2487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-04-07 18:00:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-02-26 21:49:52 +0100"
@@ -2632,6 +2694,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2020-03-10 23:23:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-04-07 18:00:49 +0200"
     },
     "done": true
   },

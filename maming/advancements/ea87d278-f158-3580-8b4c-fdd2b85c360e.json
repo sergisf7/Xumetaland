@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-07 15:06:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2020-04-04 20:42:01 +0200"
@@ -845,6 +851,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-03-20 17:18:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-07 19:25:57 +0200"
     },
     "done": true
   },
@@ -1460,6 +1472,7 @@
       "cookie": "2020-03-20 18:40:48 +0100",
       "raw_cod": "2020-03-26 17:34:41 +0100",
       "cooked_chicken": "2020-03-21 00:50:43 +0100",
+      "enchanted_golden_apple": "2020-04-07 17:59:52 +0200",
       "mushroom_stew": "2020-03-15 16:53:55 +0100",
       "cooked_salmon": "2020-03-23 21:01:48 +0100",
       "carrot": "2020-03-12 19:38:48 +0100"
