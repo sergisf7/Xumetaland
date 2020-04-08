@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/cardtable_base_lightblue": {
+    "criteria": {
+      "has_wool": "2020-04-08 20:41:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-04-06 23:31:53 +0200"
