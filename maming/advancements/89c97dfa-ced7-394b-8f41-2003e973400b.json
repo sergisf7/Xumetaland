@@ -2663,6 +2663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-04-09 19:39:51 +0200"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2020-03-07 01:11:02 +0100"
@@ -2744,6 +2750,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-03-07 22:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-04-09 19:39:51 +0200"
     },
     "done": true
   },
