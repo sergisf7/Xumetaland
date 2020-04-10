@@ -1273,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-10 20:35:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-03-07 01:11:11 +0100"
@@ -2189,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-10 20:59:30 +0200"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2020-03-07 00:51:58 +0100"
@@ -2489,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-04-10 20:52:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-08 20:35:45 +0100"
@@ -2552,6 +2570,12 @@
   "casinocraft:recipes/module_clay_craps": {
     "criteria": {
       "has_clay": "2020-03-17 17:35:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2020-04-10 19:01:33 +0200"
     },
     "done": true
   },

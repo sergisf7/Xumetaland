@@ -1,8 +1,8 @@
 #List of Hidden Players
-calvo_enp:true
+calvo_enp:false
 xavi98798:false
 ihernandez97:false
 dj_s3rgi:false
-derdariors:true
 noelia.sl:false
+derdariors:true
 srpapau:true
