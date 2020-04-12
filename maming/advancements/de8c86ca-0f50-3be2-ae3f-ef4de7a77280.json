@@ -550,9 +550,22 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2020-04-11 17:26:24 +0200",
+      "bred_cow": "2020-04-12 01:25:26 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-03-29 00:52:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-04-12 01:02:26 +0200"
     },
     "done": true
   },
@@ -694,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-11 17:36:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-03-20 21:44:27 +0100"
@@ -733,6 +752,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-16 14:04:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-11 17:52:37 +0200"
     },
     "done": true
   },
@@ -977,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-04-12 01:43:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-03-01 00:36:08 +0100"
@@ -1070,6 +1101,12 @@
   "casinocraft:recipes/module_card_freecell": {
     "criteria": {
       "has_paper": "2020-03-20 23:20:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-04-12 01:02:26 +0200"
     },
     "done": true
   },
@@ -1475,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-11 17:52:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-03-21 17:37:31 +0100"
@@ -1636,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-04-11 17:04:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2020-03-20 23:00:00 +0100"
@@ -1747,6 +1796,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-30 20:47:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2020-04-11 17:26:24 +0200"
     },
     "done": true
   },

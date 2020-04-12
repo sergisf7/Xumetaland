@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2020-04-12 01:00:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-03-09 13:37:20 +0100"
@@ -380,6 +386,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-07 01:21:10 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_village": {
+    "criteria": {
+      "coded_trigger": "2020-04-12 01:13:51 +0200"
     },
     "done": true
   },
@@ -609,6 +621,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-07 01:19:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-04-12 00:38:29 +0200"
     },
     "done": true
   },
@@ -917,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-04-12 00:38:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-07 16:24:18 +0100"
@@ -1076,6 +1100,12 @@
   "tombstone:tutorial/use_knowledge": {
     "criteria": {
       "coded_trigger": "2020-04-05 03:39:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-04-12 00:38:29 +0200"
     },
     "done": true
   },
@@ -1546,6 +1576,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-07 13:44:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-04-12 00:38:29 +0200"
     },
     "done": true
   },
