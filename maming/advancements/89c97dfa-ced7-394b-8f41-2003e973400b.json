@@ -1073,6 +1073,12 @@
     },
     "done": true
   },
+  "railcraft:tracks/wooden_track": {
+    "criteria": {
+      "wooden": "2020-04-17 19:41:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-03-13 16:32:52 +0100"
